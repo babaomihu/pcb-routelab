@@ -1,0 +1,5 @@
+{
+  "raw_layout_text_equal": true,
+  "raw_setup_text_equal": true,
+  "policy": "Raw serialization evidence retained; physical fields compared with same-version KiCad10 native API. net code/name serialization, HPGL plotting, added default fields are not geometry substitutes. Native duplicate-pad-jumper field checked; custom pads fail closed."
+}

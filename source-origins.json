@@ -1,0 +1,1168 @@
+{
+  "release": "0.1.0",
+  "source_root_label": "PCB routing research archive",
+  "files": [
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/scripts/snapshot_native_v5.py",
+      "path": "src/pcb_routelab/_assets/legacy/scripts/snapshot_native_v5.py",
+      "original_sha256": "2bf6b7d2d19a1fe6b7c26f8f2eb6e2cbe5a950c89795cd10fa445699003d12d1",
+      "released_sha256": "6751f93c687bd9b66a02dfe9a153d8a0822565aa1f32aaa0bfd2b5fb763b31ed"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/scripts/pcb_mcp_v20.py",
+      "path": "src/pcb_routelab/_assets/legacy/scripts/pcb_mcp_v20.py",
+      "original_sha256": "5a268ab2a3526edea675ed234137c21149e6e25f3a682fdc4eaebfbb3bd67d3e",
+      "released_sha256": "7fc5e9ec9156a0eb5f85158ee9e7ec141b05440334cd941b51696ad29fb2e865"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/src/context_v20.py",
+      "path": "src/pcb_routelab/_assets/legacy/src/context_v20.py",
+      "original_sha256": "91c1574c2033353e0796f9881ce6bac5a0d51c341f28bf43267d001efeaecf8d",
+      "released_sha256": "561ad8bf15faa1560059fe40f13bd83d285b117bacfda4801ffdb204fbcaebe8"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/src/session_v20.py",
+      "path": "src/pcb_routelab/_assets/legacy/src/session_v20.py",
+      "original_sha256": "b2b94203282773e327b049abc29d60e4f30bf517591e589a30f34a38cc7c557c",
+      "released_sha256": "68cfb84165827ceafaf4a16691ba1f8951540d0d22723686df0d71dfeecd3723"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/src/evidence_v20.py",
+      "path": "src/pcb_routelab/_assets/legacy/src/evidence_v20.py",
+      "original_sha256": "e2f6d07728d2d271584658b5283a502df9bccca22e9afb96db2cc0afad8f8289",
+      "released_sha256": "06387daf349ffe3e61c504670207d7ea79a235eccda7946e1a0ede64157b73e5"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/src/session_legacy_v20.py",
+      "path": "src/pcb_routelab/_assets/legacy/src/session_legacy_v20.py",
+      "original_sha256": "ced8e1619173d01997f5604357722e18fc183b767f9fd952ad2bcd7f2c43e087",
+      "released_sha256": "0adf69b236fe3c4881688e3594557f0c0b878926cb3d8ae9e70d4a1fb2a5565e"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/src/packaging_v9_3.py",
+      "path": "src/pcb_routelab/_assets/legacy/src/packaging_v9_3.py",
+      "original_sha256": "6567bef27aaac55d14c7f29d0be05015c40524fa1bdabe6b2b5fa0ccea2e1a84",
+      "released_sha256": "be738755ad9d216e63da7609dd5c2bcf57894ec8ded4c1dfb7113e5fb31ee18d"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/src/geometry_v9.py",
+      "path": "src/pcb_routelab/_assets/legacy/src/geometry_v9.py",
+      "original_sha256": "1cd19c087fcc5fa865301d33d1d10595c619b6051efa69e33d9c978a5dfeffcc",
+      "released_sha256": "dc273fd826de29af1280a310940cbc2a109b60f3d0024913ffcfabaf3a06e73d"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/scripts/audit_board_v6.py",
+      "path": "src/pcb_routelab/_assets/legacy/scripts/audit_board_v6.py",
+      "original_sha256": "3d3712fb5818f045f4ab01aab76dedda4d4f77d150fb266efaae34f80215b287",
+      "released_sha256": "959b03ecb4d7360313f6c80761d5ed2e06aa95a7bfceac89192ac5099b0960af"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/src/session_core_v20.py",
+      "path": "src/pcb_routelab/_assets/legacy/src/session_core_v20.py",
+      "original_sha256": "916afb13c12bd01ec5978c99e36c094142fa90151575e8472b17a11b7066c007",
+      "released_sha256": "4c1466c83e6478e93f8fd50cbda02be79164adc13db2752fd760d545e511cc5b"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/src/input_gate_v12.py",
+      "path": "src/pcb_routelab/_assets/legacy/src/input_gate_v12.py",
+      "original_sha256": "9be8255bcbf825b5fe881ac7603f2be4d28434c3b8a38f9ebfe5c918323f6341",
+      "released_sha256": "0cc2b03b9638770f2339f9efdb7ca6568220e58a44e638296930dd3c9fb33426"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/scripts/pcb_mcp_v5.py",
+      "path": "src/pcb_routelab/_assets/legacy/scripts/pcb_mcp_v5.py",
+      "original_sha256": "42e0f4909aa55d33c86acbe9c1d363a7d7a7d596d337d2a0ba4f76aa69f27e06",
+      "released_sha256": "c3c9fe615653541aa17497683a8233935f2d5037cef806c3db4f8dcd86c78e64"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/scripts/run_model_v20.py",
+      "path": "src/pcb_routelab/_assets/legacy/scripts/run_model_v20.py",
+      "original_sha256": "2a6a82311d7c755bc054fc353719cf003b04ff3cc41c7e5877473bfae75e1ace",
+      "released_sha256": "c39b12cc92afa7095a2bc22d4fbba06c18e5048ea412d557d341ef691cae5c75"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/src/recovery_v20.py",
+      "path": "src/pcb_routelab/_assets/legacy/src/recovery_v20.py",
+      "original_sha256": "210df8a84d9c0b193d418d0375a496cf759fc7a22c6b5912d61180d6fd90d524",
+      "released_sha256": "c75d2b60e7c7716529e91b21ad287f6fece75075485cf80d7dace791aff9b5cd"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/src/loop_gateway_v20.py",
+      "path": "src/pcb_routelab/_assets/legacy/src/loop_gateway_v20.py",
+      "original_sha256": "0764aa6405735906cfa0da60a26ddc17b1895a6904ed88e0d6702a93b29f08dc",
+      "released_sha256": "f9efdd45ec946555ec06931dbeb8e43862a8ef11d9ff41713432b23c775f92f8"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/src/model_gateway_v2.py",
+      "path": "src/pcb_routelab/_assets/legacy/src/model_gateway_v2.py",
+      "original_sha256": "1dd1193b2445d63c49cece098e2797591f31d7fe0c4e1557a8e2c45bc0ee6524",
+      "released_sha256": "2adac9e5de847c932546e69c1a4a562a3a8a94463d60280cdda36c4d2db58ebe"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/bus_corridor.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/bus_corridor.py",
+      "original_sha256": "951f22a3e22b4304f05335e350ff4af8173202a887ffdd0aff49f98e2613333a",
+      "released_sha256": "951f22a3e22b4304f05335e350ff4af8173202a887ffdd0aff49f98e2613333a"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/plane_fill_model.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/plane_fill_model.py",
+      "original_sha256": "50e91842ef76ec37920d4053108662d7418be10771d764e61767f3ff82f434c0",
+      "released_sha256": "50e91842ef76ec37920d4053108662d7418be10771d764e61767f3ff82f434c0"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/reroute_loop.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/reroute_loop.py",
+      "original_sha256": "3ad6c65dc4e706366762d07a8857aa6d02659239eb2521f011f5e5add955ef34",
+      "released_sha256": "3ad6c65dc4e706366762d07a8857aa6d02659239eb2521f011f5e5add955ef34"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/make_movie.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/make_movie.py",
+      "original_sha256": "97b23d805625b93b2a7078951468081e7559745c09068150c6e85778be1b7345",
+      "released_sha256": "97b23d805625b93b2a7078951468081e7559745c09068150c6e85778be1b7345"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/kicad_dru.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/kicad_dru.py",
+      "original_sha256": "737d230ef4ba55c2f0ae70a3dcaa699e4caa63f752862c59c084557a9356b333",
+      "released_sha256": "737d230ef4ba55c2f0ae70a3dcaa699e4caa63f752862c59c084557a9356b333"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/routing_defaults.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/routing_defaults.py",
+      "original_sha256": "de94748cd97312e3fcefa31e40e76d477ff480592869ef2cdb077042c332a12a",
+      "released_sha256": "de94748cd97312e3fcefa31e40e76d477ff480592869ef2cdb077042c332a12a"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/routing_exceptions.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/routing_exceptions.py",
+      "original_sha256": "2f881ffd0ea1eb1bb19d49c300d1ddac5a2da87a20403f62cc6026c9a5f4c03a",
+      "released_sha256": "2f881ffd0ea1eb1bb19d49c300d1ddac5a2da87a20403f62cc6026c9a5f4c03a"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/check_connected.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/check_connected.py",
+      "original_sha256": "e669e0de62dcf473f0dbd67afe96f070f074dd9752a0a86b450548959f73cf99",
+      "released_sha256": "e669e0de62dcf473f0dbd67afe96f070f074dd9752a0a86b450548959f73cf99"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/connectivity.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/connectivity.py",
+      "original_sha256": "e38353d7900666a99d0ec9c32573d8435a0b1a31b3354c4df23bd652fc82355c",
+      "released_sha256": "e38353d7900666a99d0ec9c32573d8435a0b1a31b3354c4df23bd652fc82355c"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/route_planes.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/route_planes.py",
+      "original_sha256": "919c0d52ff256eaa70c46fa917cdf75eadd77fd24417d3886ae307c7f2fb9709",
+      "released_sha256": "919c0d52ff256eaa70c46fa917cdf75eadd77fd24417d3886ae307c7f2fb9709"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/movie_camera.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/movie_camera.py",
+      "original_sha256": "98292c3d3c386be30198c8361c9f2a8c9f6863b96e9436a929fcd8585a374492",
+      "released_sha256": "98292c3d3c386be30198c8361c9f2a8c9f6863b96e9436a929fcd8585a374492"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/plane_blocker_detection.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/plane_blocker_detection.py",
+      "original_sha256": "a407fd5963dc0ed6695661bc85850a8d1f38f0cded07c1d26e78348838d92a3e",
+      "released_sha256": "a407fd5963dc0ed6695661bc85850a8d1f38f0cded07c1d26e78348838d92a3e"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/plane_pad_tap.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/plane_pad_tap.py",
+      "original_sha256": "aeeb98fbe9c55d5446aa53b2bfd74ef0c8450580cd9c8714ef80da6711a957a0",
+      "released_sha256": "aeeb98fbe9c55d5446aa53b2bfd74ef0c8450580cd9c8714ef80da6711a957a0"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/diff_pair_custody.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/diff_pair_custody.py",
+      "original_sha256": "3111e3cebe1bfec2a819156c400aeb3d8292f19d261dd4e39a7ef4c03e5392de",
+      "released_sha256": "3111e3cebe1bfec2a819156c400aeb3d8292f19d261dd4e39a7ef4c03e5392de"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/rip_up_reroute.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/rip_up_reroute.py",
+      "original_sha256": "52676af43392f95af6c5a775b1cb84833cf950a7c7216ac9308e33a3e0ffa21c",
+      "released_sha256": "52676af43392f95af6c5a775b1cb84833cf950a7c7216ac9308e33a3e0ffa21c"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/length_matching.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/length_matching.py",
+      "original_sha256": "54e2939407b80f0e1cafac061d799867e1a218b9e74bd9bed54fe699afec4444",
+      "released_sha256": "54e2939407b80f0e1cafac061d799867e1a218b9e74bd9bed54fe699afec4444"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/routing_utils.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/routing_utils.py",
+      "original_sha256": "2476a3f1c1d93069c5ab15b0214b53bdf28dbd1e7c991ab75b06b9a7a1282a9d",
+      "released_sha256": "2476a3f1c1d93069c5ab15b0214b53bdf28dbd1e7c991ab75b06b9a7a1282a9d"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/cleanup_pipeline.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/cleanup_pipeline.py",
+      "original_sha256": "c4301c72935bf7463723c1b09f21b6ac2cd48db7a9bcd9e568f2a73679080cb4",
+      "released_sha256": "c4301c72935bf7463723c1b09f21b6ac2cd48db7a9bcd9e568f2a73679080cb4"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/single_ended_loop.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/single_ended_loop.py",
+      "original_sha256": "cf288137c8818b2c962c50af02f0f3b886cf2ab00ccd3c0e8ee554f65e0d5e82",
+      "released_sha256": "cf288137c8818b2c962c50af02f0f3b886cf2ab00ccd3c0e8ee554f65e0d5e82"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/redo_record.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/redo_record.py",
+      "original_sha256": "f167110134b8b5e385a67863bd22a02256b2b85c67566a9100b9859c19a7b143",
+      "released_sha256": "f167110134b8b5e385a67863bd22a02256b2b85c67566a9100b9859c19a7b143"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/geometry_utils.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/geometry_utils.py",
+      "original_sha256": "a7a9025a19075323d73959b75f8af8cc87f0af23dbafd7552411c6778108df27",
+      "released_sha256": "a7a9025a19075323d73959b75f8af8cc87f0af23dbafd7552411c6778108df27"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/place_fanout_clearance.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/place_fanout_clearance.py",
+      "original_sha256": "25c047fba7105ca9df059461f3e3f389ea5237b0add484825b74b588936ef7b4",
+      "released_sha256": "25c047fba7105ca9df059461f3e3f389ea5237b0add484825b74b588936ef7b4"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/fix_kicad_drc_settings.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/fix_kicad_drc_settings.py",
+      "original_sha256": "e27dc019cf1edd5adadc0d7e619dc49fa3c2f30751fa12ef6f9ccd9e95c9ca6a",
+      "released_sha256": "e27dc019cf1edd5adadc0d7e619dc49fa3c2f30751fa12ef6f9ccd9e95c9ca6a"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/routing_diagnostics.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/routing_diagnostics.py",
+      "original_sha256": "b7c6179f401019852c55511914b5c9aee4979b17cb068dd5daa5653a1c626ba5",
+      "released_sha256": "b7c6179f401019852c55511914b5c9aee4979b17cb068dd5daa5653a1c626ba5"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/list_nets.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/list_nets.py",
+      "original_sha256": "8300b1386e738f8f8c83251bfdb2399d19229f5e90d82e2c0adff164c3fc2e60",
+      "released_sha256": "8300b1386e738f8f8c83251bfdb2399d19229f5e90d82e2c0adff164c3fc2e60"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/fab_tiers.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/fab_tiers.py",
+      "original_sha256": "040e463a67798f56e12b362bd15179ba412122729ab49db3476e02e33179f134",
+      "released_sha256": "040e463a67798f56e12b362bd15179ba412122729ab49db3476e02e33179f134"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/route_render.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/route_render.py",
+      "original_sha256": "2998166f7f13f0066f018b9a754ae4dfa08ae4725f4d0b4166947dd39f9baf7e",
+      "released_sha256": "2998166f7f13f0066f018b9a754ae4dfa08ae4725f4d0b4166947dd39f9baf7e"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/obstacle_map.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/obstacle_map.py",
+      "original_sha256": "ac9fc976bf64147d6208e47d615bcc1a3dcc220a1ffc554a5a1c64d553dd3c29",
+      "released_sha256": "ac9fc976bf64147d6208e47d615bcc1a3dcc220a1ffc554a5a1c64d553dd3c29"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/layer_swap_optimization.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/layer_swap_optimization.py",
+      "original_sha256": "1a1e6462b12523f96ff780037573b634ef108eb24580ea63c2491d073e337f2b",
+      "released_sha256": "1a1e6462b12523f96ff780037573b634ef108eb24580ea63c2491d073e337f2b"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/output_writer.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/output_writer.py",
+      "original_sha256": "13d2404c329b208abc36e0dc708eeb2a4a6379a121ed4ae8e2d714477bcedc1a",
+      "released_sha256": "13d2404c329b208abc36e0dc708eeb2a4a6379a121ed4ae8e2d714477bcedc1a"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/schematic_updater.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/schematic_updater.py",
+      "original_sha256": "3dc6cccbadd5e61ee99b08c11557566cb030d6cadf9916352357df6bf52582d8",
+      "released_sha256": "3dc6cccbadd5e61ee99b08c11557566cb030d6cadf9916352357df6bf52582d8"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/routing_state.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/routing_state.py",
+      "original_sha256": "9cce95f55e0af578185ee2c2302f98da9f10adf2672d8bc377841a41144f565f",
+      "released_sha256": "9cce95f55e0af578185ee2c2302f98da9f10adf2672d8bc377841a41144f565f"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/cli_nets.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/cli_nets.py",
+      "original_sha256": "773d1250d9316628f9d719fe695f76816d7c00ed416232c766cf6672de6d535e",
+      "released_sha256": "773d1250d9316628f9d719fe695f76816d7c00ed416232c766cf6672de6d535e"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/route.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/route.py",
+      "original_sha256": "d57769ef0edf49dee803d5ab86662b6d85a80e255ef773e0a8d059ddc78a0b63",
+      "released_sha256": "d57769ef0edf49dee803d5ab86662b6d85a80e255ef773e0a8d059ddc78a0b63"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/obstacle_cache.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/obstacle_cache.py",
+      "original_sha256": "6ad2197ba4f1f013b2adbd248ac91327adf0530f0e14becd543762280542df22",
+      "released_sha256": "6ad2197ba4f1f013b2adbd248ac91327adf0530f0e14becd543762280542df22"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/make_plan.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/make_plan.py",
+      "original_sha256": "938d00614cd92fd10181056378c396bf5352482aab1a2244c8f379078e7b3d33",
+      "released_sha256": "938d00614cd92fd10181056378c396bf5352482aab1a2244c8f379078e7b3d33"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/tap_relocation.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/tap_relocation.py",
+      "original_sha256": "bbd03cc897a429e99b41cacf106535f252f306809a52a86497e9d3d52d386b03",
+      "released_sha256": "bbd03cc897a429e99b41cacf106535f252f306809a52a86497e9d3d52d386b03"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/plane_zone_geometry.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/plane_zone_geometry.py",
+      "original_sha256": "3ed85d3036a11978a75770e2195e76ab5a21cec9428094d9127ac347a5a1863a",
+      "released_sha256": "3ed85d3036a11978a75770e2195e76ab5a21cec9428094d9127ac347a5a1863a"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/polarity_swap.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/polarity_swap.py",
+      "original_sha256": "586014b0c93f79222eaaf2a6f0554a4edb379e615441bb26cb6e78351776d4b0",
+      "released_sha256": "586014b0c93f79222eaaf2a6f0554a4edb379e615441bb26cb6e78351776d4b0"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/net_ordering.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/net_ordering.py",
+      "original_sha256": "bec77b33cf11177d8fc276ad0d47a531110b9854004e764d1dfa331464f40aa0",
+      "released_sha256": "bec77b33cf11177d8fc276ad0d47a531110b9854004e764d1dfa331464f40aa0"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/routing_constants.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/routing_constants.py",
+      "original_sha256": "bdcafffa2357e51d37cd0ee212275dbd2bf7d97f92aaccae78a345fd80553384",
+      "released_sha256": "bdcafffa2357e51d37cd0ee212275dbd2bf7d97f92aaccae78a345fd80553384"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/animate_route.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/animate_route.py",
+      "original_sha256": "8e5fbc039b87607980ea951eb728f3152e928bb9dca3fba04e90d74e0f50898f",
+      "released_sha256": "8e5fbc039b87607980ea951eb728f3152e928bb9dca3fba04e90d74e0f50898f"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/plane_resistance.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/plane_resistance.py",
+      "original_sha256": "cd77df49ee70153b04be2776286c8799101948695a0c2504cc2436a7754059ac",
+      "released_sha256": "cd77df49ee70153b04be2776286c8799101948695a0c2504cc2436a7754059ac"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/bus_detection.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/bus_detection.py",
+      "original_sha256": "ada6f88d665c00ee4e6935e12f84810e37a1710e6e35194ede205220ba2f069d",
+      "released_sha256": "ada6f88d665c00ee4e6935e12f84810e37a1710e6e35194ede205220ba2f069d"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/bresenham_utils.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/bresenham_utils.py",
+      "original_sha256": "0da8a0d9d58a36aa6d5137ba7109ba19ff9dc6fd2e269d154d00663399c9dfd7",
+      "released_sha256": "0da8a0d9d58a36aa6d5137ba7109ba19ff9dc6fd2e269d154d00663399c9dfd7"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/pcb_modification.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/pcb_modification.py",
+      "original_sha256": "d04acb30137628c1a5c6f5e2c6893753605fd0ddec955286b4c0457c6d190854",
+      "released_sha256": "d04acb30137628c1a5c6f5e2c6893753605fd0ddec955286b4c0457c6d190854"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/qfn_fanout.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/qfn_fanout.py",
+      "original_sha256": "b1b5c16b08b725c6f70bd806f33da23253a68d21c0dbd1badc060e2991e77974",
+      "released_sha256": "b1b5c16b08b725c6f70bd806f33da23253a68d21c0dbd1badc060e2991e77974"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/check_pads.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/check_pads.py",
+      "original_sha256": "7d63ca4b529f4bcf6b5483038c75206b9151fe0720c0a2ed34f941fd196d520d",
+      "released_sha256": "7d63ca4b529f4bcf6b5483038c75206b9151fe0720c0a2ed34f941fd196d520d"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/target_swap.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/target_swap.py",
+      "original_sha256": "01bc14831d34493d1b7ea5903815a79ab6e8b55e62170b8fd52b8f3b48c6e00b",
+      "released_sha256": "01bc14831d34493d1b7ea5903815a79ab6e8b55e62170b8fd52b8f3b48c6e00b"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/route_summary.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/route_summary.py",
+      "original_sha256": "7bd4e0d8fc5ddbd0087b30413efd99eb5629a7c60cd73818529a58adbe32cb86",
+      "released_sha256": "7bd4e0d8fc5ddbd0087b30413efd99eb5629a7c60cd73818529a58adbe32cb86"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/kicad_exact_fill.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/kicad_exact_fill.py",
+      "original_sha256": "65c0b74c54f12c48c3a5fb62c3e54c2bc58c8cb6aef07fab5734c61c8c161ee6",
+      "released_sha256": "65c0b74c54f12c48c3a5fb62c3e54c2bc58c8cb6aef07fab5734c61c8c161ee6"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/routing_common.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/routing_common.py",
+      "original_sha256": "b5833c5f206264da036ea8ed97e9e4d89205d5a33ce27ce185345bb6d9252c59",
+      "released_sha256": "b5833c5f206264da036ea8ed97e9e4d89205d5a33ce27ce185345bb6d9252c59"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/diff_pair_routing.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/diff_pair_routing.py",
+      "original_sha256": "74cadf4128c9cb88d2353559a58481ef15e8f7cd6b5d7e9100909e1f1db9dfb1",
+      "released_sha256": "74cadf4128c9cb88d2353559a58481ef15e8f7cd6b5d7e9100909e1f1db9dfb1"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/bga_fanout.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/bga_fanout.py",
+      "original_sha256": "c28ae915b5c7c3981a0fbb23380e3c6c7f0f4d3401b4e7da95deb74ba8f49f7e",
+      "released_sha256": "c28ae915b5c7c3981a0fbb23380e3c6c7f0f4d3401b4e7da95deb74ba8f49f7e"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/plane_write_reconcile.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/plane_write_reconcile.py",
+      "original_sha256": "1c257a0b76f329e040c3cf99f6499e283fccaa2ba4526217fe164ca2a114c9e3",
+      "released_sha256": "1c257a0b76f329e040c3cf99f6499e283fccaa2ba4526217fe164ca2a114c9e3"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/mps_layer_swap.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/mps_layer_swap.py",
+      "original_sha256": "e744f54c365b8260a79885bb8faf24965384e0719c637885bba48b645bf3b432",
+      "released_sha256": "e744f54c365b8260a79885bb8faf24965384e0719c637885bba48b645bf3b432"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/history_congestion.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/history_congestion.py",
+      "original_sha256": "bc63ff02f33d63449fc5ca4b3d41ef26deddd73c13beea2c460d236c063e8d77",
+      "released_sha256": "bc63ff02f33d63449fc5ca4b3d41ef26deddd73c13beea2c460d236c063e8d77"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/pack_river.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/pack_river.py",
+      "original_sha256": "730fd728dec193be84eb0e295775cd94575641b2aa835a47f2f196e16467687f",
+      "released_sha256": "730fd728dec193be84eb0e295775cd94575641b2aa835a47f2f196e16467687f"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/console_encoding.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/console_encoding.py",
+      "original_sha256": "788397094cc7175cfe2b595b14f1d20c2ab677d3b9e3a824a030889dd45479a9",
+      "released_sha256": "788397094cc7175cfe2b595b14f1d20c2ab677d3b9e3a824a030889dd45479a9"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/leg_rip.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/leg_rip.py",
+      "original_sha256": "24c3fc9b503f2c7e0c2c0ef43e0c6b489b40e825f2d0abd69546f9f104c6022c",
+      "released_sha256": "24c3fc9b503f2c7e0c2c0ef43e0c6b489b40e825f2d0abd69546f9f104c6022c"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/stub_layer_switching.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/stub_layer_switching.py",
+      "original_sha256": "5105bb0bba67ec34a357ffe53e5dad63666e379e73bb68f99d48b7da34fd1264",
+      "released_sha256": "5105bb0bba67ec34a357ffe53e5dad63666e379e73bb68f99d48b7da34fd1264"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/startup_checks.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/startup_checks.py",
+      "original_sha256": "f9b7d6f618ed7a40b7ad82ea8d72dd51acf4d6ccd1a0fdf62af88fd00e5b0bda",
+      "released_sha256": "f9b7d6f618ed7a40b7ad82ea8d72dd51acf4d6ccd1a0fdf62af88fd00e5b0bda"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/plane_corridor_ghosts.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/plane_corridor_ghosts.py",
+      "original_sha256": "dd2e5cc64a7946af47cdf98b6da9a5ac530eff2a64619c4774c2c81ce208a2e1",
+      "released_sha256": "dd2e5cc64a7946af47cdf98b6da9a5ac530eff2a64619c4774c2c81ce208a2e1"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/plane_io.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/plane_io.py",
+      "original_sha256": "ddb9b7fc2ad38645fb4dc4bef82dad0ba4ebac6ded4352e27b8ceb823df942e9",
+      "released_sha256": "ddb9b7fc2ad38645fb4dc4bef82dad0ba4ebac6ded4352e27b8ceb823df942e9"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/plane_obstacle_builder.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/plane_obstacle_builder.py",
+      "original_sha256": "aea4d690149ceb7d20ce8f17dc11123c5b914f68544b7aa48b87162f76b9f5f1",
+      "released_sha256": "aea4d690149ceb7d20ce8f17dc11123c5b914f68544b7aa48b87162f76b9f5f1"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/obstacle_costs.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/obstacle_costs.py",
+      "original_sha256": "2c8db39c4c1a5f789e05fafef6fe70f1ea2ef68d05d68999fd919527668d9767",
+      "released_sha256": "2c8db39c4c1a5f789e05fafef6fe70f1ea2ef68d05d68999fd919527668d9767"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/check_drc.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/check_drc.py",
+      "original_sha256": "262ddb33f037941744c74308fdcc65e6e77b80f10ae01983ac23215e5516bde5",
+      "released_sha256": "262ddb33f037941744c74308fdcc65e6e77b80f10ae01983ac23215e5516bde5"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/phase3_routing.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/phase3_routing.py",
+      "original_sha256": "caaed2f7148aa7e888c749c91a01349cce70339b7010ed4574510a974daff988",
+      "released_sha256": "caaed2f7148aa7e888c749c91a01349cce70339b7010ed4574510a974daff988"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/rip_restore.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/rip_restore.py",
+      "original_sha256": "84db5f859051864287bd843271c92e97bf8378ee2cb7a957c1e6bef110962a37",
+      "released_sha256": "84db5f859051864287bd843271c92e97bf8378ee2cb7a957c1e6bef110962a37"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/diff_pair_loop.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/diff_pair_loop.py",
+      "original_sha256": "93dad1798258f62dac914fba358e3edac06457e8be5f0f829ee4cf7b590d6fb0",
+      "released_sha256": "93dad1798258f62dac914fba358e3edac06457e8be5f0f829ee4cf7b590d6fb0"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/routing_context.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/routing_context.py",
+      "original_sha256": "658584c377acb19f481d644bb0ff6127f64084be8d4a6815351b0f59414caf64",
+      "released_sha256": "658584c377acb19f481d644bb0ff6127f64084be8d4a6815351b0f59414caf64"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/route_diff.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/route_diff.py",
+      "original_sha256": "e6e7cd0d46b24351f83d332cf258e3f850db0292ef41bb1d09fa00e20852a861",
+      "released_sha256": "e6e7cd0d46b24351f83d332cf258e3f850db0292ef41bb1d09fa00e20852a861"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/_placer_path.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/_placer_path.py",
+      "original_sha256": "6f7dc70624a51fbe1142ecf29965829105666bbdf8d0ba7e739267810a815c65",
+      "released_sha256": "6f7dc70624a51fbe1142ecf29965829105666bbdf8d0ba7e739267810a815c65"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/plane_component_oracle.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/plane_component_oracle.py",
+      "original_sha256": "845aee20a9d3080b1047f48023bb93fb9cebfb072962bca64e6a0a2f208ebf96",
+      "released_sha256": "845aee20a9d3080b1047f48023bb93fb9cebfb072962bca64e6a0a2f208ebf96"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/diff_pair_multipoint.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/diff_pair_multipoint.py",
+      "original_sha256": "dddc5e773f3bef82e7625715ab69432cb9a0537faa35f370d5a1c9bcf2fad8bb",
+      "released_sha256": "dddc5e773f3bef82e7625715ab69432cb9a0537faa35f370d5a1c9bcf2fad8bb"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/congestion_field.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/congestion_field.py",
+      "original_sha256": "010a237b1d76974b7d5c2fd0864b42e46c928bfd53d38cee94451b575aa2870a",
+      "released_sha256": "010a237b1d76974b7d5c2fd0864b42e46c928bfd53d38cee94451b575aa2870a"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/net_queries.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/net_queries.py",
+      "original_sha256": "398dd3bbfe35191e4fa78dd7460d02637a6d7862fa324fc30e5b936b7d045be3",
+      "released_sha256": "398dd3bbfe35191e4fa78dd7460d02637a6d7862fa324fc30e5b936b7d045be3"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/improvement_gate.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/improvement_gate.py",
+      "original_sha256": "93a4259138f0ead1f4383472448b31eb1ac2b38cb10105607b4b6f2b906cc5fc",
+      "released_sha256": "93a4259138f0ead1f4383472448b31eb1ac2b38cb10105607b4b6f2b906cc5fc"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/net_story.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/net_story.py",
+      "original_sha256": "a54ca5aff45e80d8a27b8b15fa4f4576a2bda803a8ce2ab4b7613e94101674ac",
+      "released_sha256": "a54ca5aff45e80d8a27b8b15fa4f4576a2bda803a8ce2ab4b7613e94101674ac"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/group_routing.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/group_routing.py",
+      "original_sha256": "c5b2b08b0996a2704b1f9b91780838fc4c9b13d37291ada03de981fd67dfe491",
+      "released_sha256": "c5b2b08b0996a2704b1f9b91780838fc4c9b13d37291ada03de981fd67dfe491"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/kicad_oracle.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/kicad_oracle.py",
+      "original_sha256": "8632ba86b362931b4f346b23865e95fbdf512a1aba63ea59c57cd08ea81806b9",
+      "released_sha256": "8632ba86b362931b4f346b23865e95fbdf512a1aba63ea59c57cd08ea81806b9"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/env_knobs.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/env_knobs.py",
+      "original_sha256": "da75a9bb17b09c3e6acdda7c3398be06e5936c9f1a7144df36839110ddb4d6c4",
+      "released_sha256": "da75a9bb17b09c3e6acdda7c3398be06e5936c9f1a7144df36839110ddb4d6c4"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/rust_alloc.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/rust_alloc.py",
+      "original_sha256": "838d142cd07a85f8f78b49b8a237f783525c1a548f545195aaa3008331a7655e",
+      "released_sha256": "838d142cd07a85f8f78b49b8a237f783525c1a548f545195aaa3008331a7655e"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/fab_notes.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/fab_notes.py",
+      "original_sha256": "13b6ed729705f91ebbcdc76a845c8876839ebb4a267a3b57776d4fcb375e2822",
+      "released_sha256": "13b6ed729705f91ebbcdc76a845c8876839ebb4a267a3b57776d4fcb375e2822"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/route_trace.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/route_trace.py",
+      "original_sha256": "4511cbacf524a9b72739ed06e4d1b1ff28cf035fef5aa634939cfba3f0c73e3b",
+      "released_sha256": "4511cbacf524a9b72739ed06e4d1b1ff28cf035fef5aa634939cfba3f0c73e3b"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/memory_debug.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/memory_debug.py",
+      "original_sha256": "1ac10087df305e10910c82677624f8ee819384d892b16ae87dbbb1fa5b53658f",
+      "released_sha256": "1ac10087df305e10910c82677624f8ee819384d892b16ae87dbbb1fa5b53658f"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/routing_config.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/routing_config.py",
+      "original_sha256": "c728461293245fc2252ad92ee27a510542c4570514ae0214ea319eca30b42237",
+      "released_sha256": "c728461293245fc2252ad92ee27a510542c4570514ae0214ea319eca30b42237"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/terminal_colors.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/terminal_colors.py",
+      "original_sha256": "824dbf2811eb5ab677a4440bbc44e8734445d628847fbf6b43e7da367761ae24",
+      "released_sha256": "824dbf2811eb5ab677a4440bbc44e8734445d628847fbf6b43e7da367761ae24"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/rip_defer.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/rip_defer.py",
+      "original_sha256": "c965f8b2cdf65d10254735049b5eebafe72c4229d9d9efbedd10bd0dd06dfdb6",
+      "released_sha256": "c965f8b2cdf65d10254735049b5eebafe72c4229d9d9efbedd10bd0dd06dfdb6"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/kicad_writer.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/kicad_writer.py",
+      "original_sha256": "2ab6c9b7e25ab6661ae4030dffa544481940bf831c9a60a29588fe4160dff074",
+      "released_sha256": "2ab6c9b7e25ab6661ae4030dffa544481940bf831c9a60a29588fe4160dff074"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/blocking_analysis.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/blocking_analysis.py",
+      "original_sha256": "6fefcbabeaf3c641a9aa197f37d9597d7bf46a115c88a442a1f8a467fb20407a",
+      "released_sha256": "6fefcbabeaf3c641a9aa197f37d9597d7bf46a115c88a442a1f8a467fb20407a"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/run_plan.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/run_plan.py",
+      "original_sha256": "c60efa64f2256736e3b82e92b38704d6f6df8770bc330691568a6371039df0b6",
+      "released_sha256": "c60efa64f2256736e3b82e92b38704d6f6df8770bc330691568a6371039df0b6"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/diff_xnet.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/diff_xnet.py",
+      "original_sha256": "2562131f806909f3e4b60b042fa73bf3adaea8bc66112f2cd703d05ce0d4ff30",
+      "released_sha256": "2562131f806909f3e4b60b042fa73bf3adaea8bc66112f2cd703d05ce0d4ff30"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/pcb_io_utils.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/pcb_io_utils.py",
+      "original_sha256": "a128f2dc42e869dc46ac240d739e6523eb31a75ffec85798c396784ab7606892",
+      "released_sha256": "a128f2dc42e869dc46ac240d739e6523eb31a75ffec85798c396784ab7606892"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/net_rescue.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/net_rescue.py",
+      "original_sha256": "4f64c668a399175ac723db0f7719ee7953aa2e096555e8c4a0b8da392bed6254",
+      "released_sha256": "4f64c668a399175ac723db0f7719ee7953aa2e096555e8c4a0b8da392bed6254"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/chip_boundary.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/chip_boundary.py",
+      "original_sha256": "76d3867bca3340a2f44d466df7169e6a13d159d603d386256102c784649294b9",
+      "released_sha256": "76d3867bca3340a2f44d466df7169e6a13d159d603d386256102c784649294b9"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/headless_plan.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/headless_plan.py",
+      "original_sha256": "3efa1fcdf7fa3308868ae46942e5d48a6beb17b8af9636b5e6ab87f4ff3cb180",
+      "released_sha256": "3efa1fcdf7fa3308868ae46942e5d48a6beb17b8af9636b5e6ab87f4ff3cb180"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/protected_nets.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/protected_nets.py",
+      "original_sha256": "282c6202fb7e897b2f6097049145aa0a7e91e20e162413400afb5a355a00d432",
+      "released_sha256": "282c6202fb7e897b2f6097049145aa0a7e91e20e162413400afb5a355a00d432"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/layer_swap_fallback.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/layer_swap_fallback.py",
+      "original_sha256": "01ec1cb23f5f840da60376a910491dba637acc61597962103ef1c0a30ba746e8",
+      "released_sha256": "01ec1cb23f5f840da60376a910491dba637acc61597962103ef1c0a30ba746e8"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/dup_trap.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/dup_trap.py",
+      "original_sha256": "f3a3cc3b91d7318b46a091d14586ce31469c3101ddcd61b325bbda90e63fa1ee",
+      "released_sha256": "f3a3cc3b91d7318b46a091d14586ce31469c3101ddcd61b325bbda90e63fa1ee"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/plane_region_connector.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/plane_region_connector.py",
+      "original_sha256": "ccc915f576074c6a8ea6084ccb4cba0cf72cc289c0214f3551edbcea54d33710",
+      "released_sha256": "ccc915f576074c6a8ea6084ccb4cba0cf72cc289c0214f3551edbcea54d33710"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/plane_fragility.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/plane_fragility.py",
+      "original_sha256": "5b5b3c8c2c33a6359fe2367fe127bc50162a05887e8384bf84d46a8dbc6ffd51",
+      "released_sha256": "5b5b3c8c2c33a6359fe2367fe127bc50162a05887e8384bf84d46a8dbc6ffd51"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/cli_banner.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/cli_banner.py",
+      "original_sha256": "385ae117df5791f8759d0350e047b01bd49210c4b64f1e274eccb9ac6e0291ff",
+      "released_sha256": "385ae117df5791f8759d0350e047b01bd49210c4b64f1e274eccb9ac6e0291ff"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/clearance_ledger.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/clearance_ledger.py",
+      "original_sha256": "caa7c20b4347bf79c89aae6e21a33c973ab15fd6f6e4aa4879bccecf4f4e4c1b",
+      "released_sha256": "caa7c20b4347bf79c89aae6e21a33c973ab15fd6f6e4aa4879bccecf4f4e4c1b"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/copy_board.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/copy_board.py",
+      "original_sha256": "d4dbc93e6a433671477b7365c22c397c9f7f79006d57c092b6727749060bd7b2",
+      "released_sha256": "d4dbc93e6a433671477b7365c22c397c9f7f79006d57c092b6727749060bd7b2"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/check_weird.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/check_weird.py",
+      "original_sha256": "5bfaab76be6f23889f858f020815b4925346eefa17a0dcf70b9e8a23dd19900c",
+      "released_sha256": "5bfaab76be6f23889f858f020815b4925346eefa17a0dcf70b9e8a23dd19900c"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/add_gnd_vias.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/add_gnd_vias.py",
+      "original_sha256": "8a194f6258cc767492680fc9ce33c080df63ec67e72cef8c62436b57d3679da0",
+      "released_sha256": "8a194f6258cc767492680fc9ce33c080df63ec67e72cef8c62436b57d3679da0"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/global_plan.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/global_plan.py",
+      "original_sha256": "56a9ad335c828aab0ffe4309b3f2763247b9a241ccbc9ab1e99affabdd2bb527",
+      "released_sha256": "56a9ad335c828aab0ffe4309b3f2763247b9a241ccbc9ab1e99affabdd2bb527"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/impedance.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/impedance.py",
+      "original_sha256": "e65cc4cf5393a22377d6013907d855a296b62a35e5a616e814967f0203fbe4c6",
+      "released_sha256": "e65cc4cf5393a22377d6013907d855a296b62a35e5a616e814967f0203fbe4c6"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/repair_planes.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/repair_planes.py",
+      "original_sha256": "d6110d33eeb92f99ec7cdad3c8e0a28ddf3a23ab4f92587ca9286523c92b0704",
+      "released_sha256": "d6110d33eeb92f99ec7cdad3c8e0a28ddf3a23ab4f92587ca9286523c92b0704"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/net_cost.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/net_cost.py",
+      "original_sha256": "5d4964c0e296fbab73182fed2b091d6005080062d5a663ebb85f90b9e2ad9c66",
+      "released_sha256": "5d4964c0e296fbab73182fed2b091d6005080062d5a663ebb85f90b9e2ad9c66"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/kicad_parser.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/kicad_parser.py",
+      "original_sha256": "1beccb1faaf45165fe1ec03f8f730759b152e7fdeccd8c8156d8347bfbcf2d9a",
+      "released_sha256": "1beccb1faaf45165fe1ec03f8f730759b152e7fdeccd8c8156d8347bfbcf2d9a"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/single_ended_routing.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/single_ended_routing.py",
+      "original_sha256": "61d9be2c3b6cbf2c29e3423e11859d9a692b336fae5404241d812714e8108586",
+      "released_sha256": "61d9be2c3b6cbf2c29e3423e11859d9a692b336fae5404241d812714e8108586"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/bga_fanout/grid.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/bga_fanout/grid.py",
+      "original_sha256": "3d0ab716440615a06fab86aa39d5286019d8519bff76e7eaea2dd808b47af4f6",
+      "released_sha256": "3d0ab716440615a06fab86aa39d5286019d8519bff76e7eaea2dd808b47af4f6"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/bga_fanout/layer_assignment.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/bga_fanout/layer_assignment.py",
+      "original_sha256": "0bd0b19c70e005c4af50df1fb9ecd9c31e3f3d00687d8336227fdc2d03baebb5",
+      "released_sha256": "0bd0b19c70e005c4af50df1fb9ecd9c31e3f3d00687d8336227fdc2d03baebb5"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/bga_fanout/escape.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/bga_fanout/escape.py",
+      "original_sha256": "50adcdcb210a5cba1ca7de62ce8f79a70d5d258597734141d73150365622886c",
+      "released_sha256": "50adcdcb210a5cba1ca7de62ce8f79a70d5d258597734141d73150365622886c"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/bga_fanout/tracks.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/bga_fanout/tracks.py",
+      "original_sha256": "7f02d835c8e7769c4e24d10775f402d2e8a3a3659a2b2ebd62101582bcd4a0d3",
+      "released_sha256": "7f02d835c8e7769c4e24d10775f402d2e8a3a3659a2b2ebd62101582bcd4a0d3"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/bga_fanout/constants.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/bga_fanout/constants.py",
+      "original_sha256": "e64e41a82aaeca04c2e261ead8d4ea1718e35c0312d9ddcafb3bed3e6dbdc27e",
+      "released_sha256": "e64e41a82aaeca04c2e261ead8d4ea1718e35c0312d9ddcafb3bed3e6dbdc27e"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/bga_fanout/__init__.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/bga_fanout/__init__.py",
+      "original_sha256": "1e5cad29f581048193309ef2290eeb522f87a6826cbe556d77ae2ffb65a79d17",
+      "released_sha256": "1e5cad29f581048193309ef2290eeb522f87a6826cbe556d77ae2ffb65a79d17"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/bga_fanout/types.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/bga_fanout/types.py",
+      "original_sha256": "812f7cecd8899804b2dad7a97c9ae33e8ac010120faa64da3ffad8a408ed0338",
+      "released_sha256": "812f7cecd8899804b2dad7a97c9ae33e8ac010120faa64da3ffad8a408ed0338"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/bga_fanout/collision.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/bga_fanout/collision.py",
+      "original_sha256": "07825fd66148dc54676a1070461ebf1e40c0dfe1a2e735cd5788b216da1aa844",
+      "released_sha256": "07825fd66148dc54676a1070461ebf1e40c0dfe1a2e735cd5788b216da1aa844"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/bga_fanout/geometry.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/bga_fanout/geometry.py",
+      "original_sha256": "5413fd53ab6859f3a9b200799950043ac43fd82c15ee1a36d850abac3fe09508",
+      "released_sha256": "5413fd53ab6859f3a9b200799950043ac43fd82c15ee1a36d850abac3fe09508"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/bga_fanout/reroute.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/bga_fanout/reroute.py",
+      "original_sha256": "076ad9b1a5d951af94c71412f7b53fc12748d59bc1531f970bd0c092dafa3eaa",
+      "released_sha256": "076ad9b1a5d951af94c71412f7b53fc12748d59bc1531f970bd0c092dafa3eaa"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/bga_fanout/underpad.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/bga_fanout/underpad.py",
+      "original_sha256": "be11ef22cd91d972769aa47bfc842f0396af246e9a7344e755458a7febdafe78",
+      "released_sha256": "be11ef22cd91d972769aa47bfc842f0396af246e9a7344e755458a7febdafe78"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/bga_fanout/rotate_frame.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/bga_fanout/rotate_frame.py",
+      "original_sha256": "c6c73dabe7e7e60fa37790481385b821da7ba4359a5f531004a0e705bd579172",
+      "released_sha256": "c6c73dabe7e7e60fa37790481385b821da7ba4359a5f531004a0e705bd579172"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/bga_fanout/diff_pair.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/bga_fanout/diff_pair.py",
+      "original_sha256": "204ed0b36870a72181a961d4ba23f616405b7b8f853e75118656030f092fb0c8",
+      "released_sha256": "204ed0b36870a72181a961d4ba23f616405b7b8f853e75118656030f092fb0c8"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/bga_fanout/layer_balance.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/bga_fanout/layer_balance.py",
+      "original_sha256": "0ebb4c19a11ed7baa10b6d4a87e44d8a4818eb5450b431aa8a9ea1004d5afadb",
+      "released_sha256": "0ebb4c19a11ed7baa10b6d4a87e44d8a4818eb5450b431aa8a9ea1004d5afadb"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/qfn_fanout/layout.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/qfn_fanout/layout.py",
+      "original_sha256": "e7d682ba0ebc2f54b341bffe1274179d90f16852a078210d9703a1f3b2ff0291",
+      "released_sha256": "e7d682ba0ebc2f54b341bffe1274179d90f16852a078210d9703a1f3b2ff0291"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/qfn_fanout/__init__.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/qfn_fanout/__init__.py",
+      "original_sha256": "d6546fb5c5a9a3bade3944de12db013dd893335933c65e8790ee76df550f26aa",
+      "released_sha256": "d6546fb5c5a9a3bade3944de12db013dd893335933c65e8790ee76df550f26aa"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/qfn_fanout/types.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/qfn_fanout/types.py",
+      "original_sha256": "c36b49265ba002a5ad89d5f01147c593175bc550e87594eddeb11b6968b19812",
+      "released_sha256": "c36b49265ba002a5ad89d5f01147c593175bc550e87594eddeb11b6968b19812"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_router/qfn_fanout/geometry.py",
+      "path": "src/pcb_routelab/_assets/krt/py_router/qfn_fanout/geometry.py",
+      "original_sha256": "b7d15858c5708f924c7c2cd4e7ac7e90a63f53b61d6b0052dba649dfdf333155",
+      "released_sha256": "b7d15858c5708f924c7c2cd4e7ac7e90a63f53b61d6b0052dba649dfdf333155"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_tools/_path.py",
+      "path": "src/pcb_routelab/_assets/krt/py_tools/_path.py",
+      "original_sha256": "d58191abe45e6d016915dcbc7de0b357489237082370af35be654984a5e0ed46",
+      "released_sha256": "d58191abe45e6d016915dcbc7de0b357489237082370af35be654984a5e0ed46"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_tools/check_reachability.py",
+      "path": "src/pcb_routelab/_assets/krt/py_tools/check_reachability.py",
+      "original_sha256": "1378dada62e2e9fc388a457b51e754abc6f9d5ec48bff7d1873cf64c8b76d426",
+      "released_sha256": "1378dada62e2e9fc388a457b51e754abc6f9d5ec48bff7d1873cf64c8b76d426"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_tools/check_orphan_stubs.py",
+      "path": "src/pcb_routelab/_assets/krt/py_tools/check_orphan_stubs.py",
+      "original_sha256": "5db28246c084003e82b693be5b6996f96b648729635523ebae5dfa93c5570d71",
+      "released_sha256": "5db28246c084003e82b693be5b6996f96b648729635523ebae5dfa93c5570d71"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_tools/check_orthonormal.py",
+      "path": "src/pcb_routelab/_assets/krt/py_tools/check_orthonormal.py",
+      "original_sha256": "5862c7c657bfc1d20ade82338f68d85a3a9590d4817566a79ac853caf435c833",
+      "released_sha256": "5862c7c657bfc1d20ade82338f68d85a3a9590d4817566a79ac853caf435c833"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_tools/check_join.py",
+      "path": "src/pcb_routelab/_assets/krt/py_tools/check_join.py",
+      "original_sha256": "70c12c997c3aef65559488b2709047642919adfc1da1e3df7ed163eea495d1a5",
+      "released_sha256": "70c12c997c3aef65559488b2709047642919adfc1da1e3df7ed163eea495d1a5"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_tools/check_channels.py",
+      "path": "src/pcb_routelab/_assets/krt/py_tools/check_channels.py",
+      "original_sha256": "71789bb2937a03f3d737e1bf3fd2c0aa50ca7270f3fc5af698fe41ff5693a144",
+      "released_sha256": "71789bb2937a03f3d737e1bf3fd2c0aa50ca7270f3fc5af698fe41ff5693a144"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_tools/clean_ignored.py",
+      "path": "src/pcb_routelab/_assets/krt/py_tools/clean_ignored.py",
+      "original_sha256": "965d6e29ce80a3c6c16cd90971f18e30a8255dcbf893303b175a0c7ce4a0e467",
+      "released_sha256": "965d6e29ce80a3c6c16cd90971f18e30a8255dcbf893303b175a0c7ce4a0e467"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_tools/check_assembly.py",
+      "path": "src/pcb_routelab/_assets/krt/py_tools/check_assembly.py",
+      "original_sha256": "37882c9801cdf15fbf1e8ebd8bb21f7ca309aacc77c7a6f8cd9a44fa6206523d",
+      "released_sha256": "37882c9801cdf15fbf1e8ebd8bb21f7ca309aacc77c7a6f8cd9a44fa6206523d"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_tools/make_film.py",
+      "path": "src/pcb_routelab/_assets/krt/py_tools/make_film.py",
+      "original_sha256": "506531497714dd5ef28ec207c79ceb7c3cfd9b7fc54f340a7edd9d4a797165aa",
+      "released_sha256": "506531497714dd5ef28ec207c79ceb7c3cfd9b7fc54f340a7edd9d4a797165aa"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_tools/validate_pcb_data.py",
+      "path": "src/pcb_routelab/_assets/krt/py_tools/validate_pcb_data.py",
+      "original_sha256": "750656dcb0664c91982ad76351ef05faeb22a18ff2b140a8f39aa4b7cba76cec",
+      "released_sha256": "750656dcb0664c91982ad76351ef05faeb22a18ff2b140a8f39aa4b7cba76cec"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_tools/kicad_unconnected.py",
+      "path": "src/pcb_routelab/_assets/krt/py_tools/kicad_unconnected.py",
+      "original_sha256": "6175b375d21d5a8ca27d09000ca3175a9d5b76b6a8da717948a7afba853cad2d",
+      "released_sha256": "6175b375d21d5a8ca27d09000ca3175a9d5b76b6a8da717948a7afba853cad2d"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_tools/extract_pcb_geometry.py",
+      "path": "src/pcb_routelab/_assets/krt/py_tools/extract_pcb_geometry.py",
+      "original_sha256": "a5a59a053f98c54054f0c8cf6d210cefbaaeec705deeaf21af37d40793ef42d3",
+      "released_sha256": "a5a59a053f98c54054f0c8cf6d210cefbaaeec705deeaf21af37d40793ef42d3"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_tools/analyze_power_paths.py",
+      "path": "src/pcb_routelab/_assets/krt/py_tools/analyze_power_paths.py",
+      "original_sha256": "120e5971dfdb7b8d225d5e089d72f92e1899f2b3a3994beb3f643597417912a9",
+      "released_sha256": "120e5971dfdb7b8d225d5e089d72f92e1899f2b3a3994beb3f643597417912a9"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_tools/animate_fanout_clearance.py",
+      "path": "src/pcb_routelab/_assets/krt/py_tools/animate_fanout_clearance.py",
+      "original_sha256": "cfe2cc6cee5bcb5650631c9cc2d6a296199d668e2746cc0480aa57cd0e856724",
+      "released_sha256": "cfe2cc6cee5bcb5650631c9cc2d6a296199d668e2746cc0480aa57cd0e856724"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_tools/net_forensics.py",
+      "path": "src/pcb_routelab/_assets/krt/py_tools/net_forensics.py",
+      "original_sha256": "b45af4f9c73fd0df343cc8a31bb80a0bf45265d60c1def0c2770dba5e8a27201",
+      "released_sha256": "b45af4f9c73fd0df343cc8a31bb80a0bf45265d60c1def0c2770dba5e8a27201"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_tools/check_impedance.py",
+      "path": "src/pcb_routelab/_assets/krt/py_tools/check_impedance.py",
+      "original_sha256": "e69e15104e0af940fe5faa415d8b89d2ccbdfbb5abe7e8e25111902d116d4ec6",
+      "released_sha256": "e69e15104e0af940fe5faa415d8b89d2ccbdfbb5abe7e8e25111902d116d4ec6"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_tools/render_placement.py",
+      "path": "src/pcb_routelab/_assets/krt/py_tools/render_placement.py",
+      "original_sha256": "24c7ed93759760d364b717400020f42142a814aff7dcb383decba56d2c90d4d8",
+      "released_sha256": "24c7ed93759760d364b717400020f42142a814aff7dcb383decba56d2c90d4d8"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_tools/check_cycles.py",
+      "path": "src/pcb_routelab/_assets/krt/py_tools/check_cycles.py",
+      "original_sha256": "f80c1191275b85aca5b4fa8fae555b87a0f207b5824cf1c9a3c4aa98fb2b2d7c",
+      "released_sha256": "f80c1191275b85aca5b4fa8fae555b87a0f207b5824cf1c9a3c4aa98fb2b2d7c"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/py_tools/check_floorplan.py",
+      "path": "src/pcb_routelab/_assets/krt/py_tools/check_floorplan.py",
+      "original_sha256": "966a78711db2af1f5d2ab146b56bb89c891e533073501abe1d46dbf5b680b2c7",
+      "released_sha256": "966a78711db2af1f5d2ab146b56bb89c891e533073501abe1d46dbf5b680b2c7"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/rust_router/Cargo.toml",
+      "path": "src/pcb_routelab/_assets/krt/rust_router/Cargo.toml",
+      "original_sha256": "9d69b27885733146c174c8ff2bddccb37544fada77c724f7fbc1f67f1d588585",
+      "released_sha256": "9d69b27885733146c174c8ff2bddccb37544fada77c724f7fbc1f67f1d588585"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/rust_router/microbench.py",
+      "path": "src/pcb_routelab/_assets/krt/rust_router/microbench.py",
+      "original_sha256": "29f47e2a60b7e9ec490dedb094f0c55538f5bd4d6014ce6f6581277149f31547",
+      "released_sha256": "29f47e2a60b7e9ec490dedb094f0c55538f5bd4d6014ce6f6581277149f31547"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/rust_router/src/types.rs",
+      "path": "src/pcb_routelab/_assets/krt/rust_router/src/types.rs",
+      "original_sha256": "c3cee10d84e1f8989ba2799e635dd77d48ab8dc239b8c63141f94c2e6fe30d80",
+      "released_sha256": "c3cee10d84e1f8989ba2799e635dd77d48ab8dc239b8c63141f94c2e6fe30d80"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/rust_router/src/obstacle_map.rs",
+      "path": "src/pcb_routelab/_assets/krt/rust_router/src/obstacle_map.rs",
+      "original_sha256": "68e2fe19e959c710bb1684a22415d641a31d4e871fbc776a267ee316ae10191c",
+      "released_sha256": "68e2fe19e959c710bb1684a22415d641a31d4e871fbc776a267ee316ae10191c"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/rust_router/src/pose_router.rs",
+      "path": "src/pcb_routelab/_assets/krt/rust_router/src/pose_router.rs",
+      "original_sha256": "a4df246ef8a886d1cd3df989734bfd4a15ddc72e551905b046fbbe056c240a4c",
+      "released_sha256": "a4df246ef8a886d1cd3df989734bfd4a15ddc72e551905b046fbbe056c240a4c"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/rust_router/src/lib.rs",
+      "path": "src/pcb_routelab/_assets/krt/rust_router/src/lib.rs",
+      "original_sha256": "94eb5abe405cdfe3e231e8b2180eb6e6445ffa9f3aadd3c3c12088d99b7e4595",
+      "released_sha256": "94eb5abe405cdfe3e231e8b2180eb6e6445ffa9f3aadd3c3c12088d99b7e4595"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/rust_router/src/dubins.rs",
+      "path": "src/pcb_routelab/_assets/krt/rust_router/src/dubins.rs",
+      "original_sha256": "578db6b9034dcea6a90849323843e47792b3c0921427d2951d325bfdb6147730",
+      "released_sha256": "578db6b9034dcea6a90849323843e47792b3c0921427d2951d325bfdb6147730"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/rust_router/src/router.rs",
+      "path": "src/pcb_routelab/_assets/krt/rust_router/src/router.rs",
+      "original_sha256": "2eef0165c9302839cee77284d44f0173e4d25d32df61427292dba137ab9e2c67",
+      "released_sha256": "2eef0165c9302839cee77284d44f0173e4d25d32df61427292dba137ab9e2c67"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/LICENSE",
+      "path": "src/pcb_routelab/_assets/krt/LICENSE",
+      "original_sha256": "6df0be9100e852f1749d2e88df423b0f71cab5bff7af35f749e10cf644911390",
+      "released_sha256": "6df0be9100e852f1749d2e88df423b0f71cab5bff7af35f749e10cf644911390"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/VERSION",
+      "path": "src/pcb_routelab/_assets/krt/VERSION",
+      "original_sha256": "a5f0a6ef41a13057c192c680ef87e9e492e43593d1b2b931c03be6a9bec94183",
+      "released_sha256": "a5f0a6ef41a13057c192c680ef87e9e492e43593d1b2b931c03be6a9bec94183"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/requirements.txt",
+      "path": "src/pcb_routelab/_assets/krt/requirements.txt",
+      "original_sha256": "6850e11e8a99d9deac0d015b2e4c4702d0079f5952635e0684b1d506219ecc04",
+      "released_sha256": "6850e11e8a99d9deac0d015b2e4c4702d0079f5952635e0684b1d506219ecc04"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/krt_capabilities.py",
+      "path": "src/pcb_routelab/_assets/krt/krt_capabilities.py",
+      "original_sha256": "5b133b7c6f7f8d5197e8cd336718693595bceefccc782930fb65cffbf85becb2",
+      "released_sha256": "5b133b7c6f7f8d5197e8cd336718693595bceefccc782930fb65cffbf85becb2"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/__init__.py",
+      "path": "src/pcb_routelab/_assets/krt/__init__.py",
+      "original_sha256": "48944a977fdb7c84971b4b2457fc0cf253e193b27abd5ad194961e727de083c1",
+      "released_sha256": "48944a977fdb7c84971b4b2457fc0cf253e193b27abd5ad194961e727de083c1"
+    },
+    {
+      "source": "论文准备-2026-10-05/整板联合规划研究-2026-10-08/engine_adapter-2026-10-09.py",
+      "path": "src/pcb_routelab/_assets/joint/engine_adapter-2026-10-09.py",
+      "original_sha256": "cf88ea3d984572fc1f93eb64e32d21eb73f639034bc4b79240041719d23e3911",
+      "released_sha256": "cf88ea3d984572fc1f93eb64e32d21eb73f639034bc4b79240041719d23e3911"
+    },
+    {
+      "source": "论文准备-2026-10-05/整板联合规划研究-2026-10-08/plan_contract-2026-10-08.py",
+      "path": "src/pcb_routelab/_assets/joint/plan_contract-2026-10-08.py",
+      "original_sha256": "dbae3654b34ecba7e1680547ff72cc0663965d90367b461b5f7c4b51123db0e0",
+      "released_sha256": "dbae3654b34ecba7e1680547ff72cc0663965d90367b461b5f7c4b51123db0e0"
+    },
+    {
+      "source": "论文准备-2026-10-05/拥塞策略发现研究-2026-10-09/policy-contract-2026-10-09.py",
+      "path": "src/pcb_routelab/_assets/congestion/policy-contract-2026-10-09.py",
+      "original_sha256": "ba24d25d753b8d1c33c469878c6d8f052a577093377f570ea58028e1478c6bcb",
+      "released_sha256": "ba24d25d753b8d1c33c469878c6d8f052a577093377f570ea58028e1478c6bcb"
+    },
+    {
+      "source": "论文准备-2026-10-05/拥塞策略发现研究-2026-10-09/route-policy-r2-2026-10-09.py",
+      "path": "src/pcb_routelab/_assets/congestion/route-policy-r2-2026-10-09.py",
+      "original_sha256": "1d7a6bf2e81c4c1550086f2ac3032bd4619c5794296ca205a71172342c5debc4",
+      "released_sha256": "1d7a6bf2e81c4c1550086f2ac3032bd4619c5794296ca205a71172342c5debc4"
+    },
+    {
+      "source": "论文准备-2026-10-05/局部修复研究-2026-10-08/v0.3-2026-10-08/rule_contract.py",
+      "path": "src/pcb_routelab/_assets/legacy/src/rule_contract.py",
+      "original_sha256": "3126fb43165e294e7ac55d32be3a7c16590dacc970381e86a04341b207cc1d23",
+      "released_sha256": "3126fb43165e294e7ac55d32be3a7c16590dacc970381e86a04341b207cc1d23"
+    },
+    {
+      "source": "论文准备-2026-10-05/预算调度研究-2026-10-08/planner_v04.py",
+      "path": "research/planner_v04.py",
+      "original_sha256": "c92cc5075d457147dc80931d1679239e8cd7f826dc4e9d24762686725609e47f",
+      "released_sha256": "7aa2e60be0352da095167bf81be15d01c81ea729a56012ac46c7c46bb65cac65"
+    },
+    {
+      "source": "deepseek-harness-master/LICENSE",
+      "path": "licenses/DeepSeek-Harness-MIT.txt",
+      "original_sha256": "ebb4f09972aee8608be255debaf78451a68e95c290f55c240dec2ecfa16ea6be",
+      "released_sha256": "ebb4f09972aee8608be255debaf78451a68e95c290f55c240dec2ecfa16ea6be"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/LICENSE",
+      "path": "licenses/KiCadRoutingTools-MIT.txt",
+      "original_sha256": "6df0be9100e852f1749d2e88df423b0f71cab5bff7af35f749e10cf644911390",
+      "released_sha256": "6df0be9100e852f1749d2e88df423b0f71cab5bff7af35f749e10cf644911390"
+    },
+    {
+      "source": "论文准备-2026-10-05/局部修复研究-2026-10-08/v0.3-memory-2026-10-08/memory_planner.py",
+      "path": "research/memory_planner.py",
+      "original_sha256": "f0a271eedc498eff80168de648cc6afa3db1cc6ed26f68858ad82c7b1ba8e946",
+      "released_sha256": "f0a271eedc498eff80168de648cc6afa3db1cc6ed26f68858ad82c7b1ba8e946"
+    },
+    {
+      "source": "论文准备-2026-10-05/拥塞策略发现研究-2026-10-09/formal-core-2026-10-10.py",
+      "path": "research/formal-core-2026-10-10.py",
+      "original_sha256": "893d906619f30a3e4e017da4d76d9b467c610ef1fc2214113e0d94acf461dea6",
+      "released_sha256": "fac9ca9d7e8dbc2ae33d493fbbf22d5ce9357a9c7ceaf4016bea2712c90c56b5"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/runtime/v6/krt/rust_router/.cargo/config.toml",
+      "path": "src/pcb_routelab/_assets/krt/rust_router/.cargo/config.toml",
+      "original_sha256": "3b00509e9aa3cad13e5a71ea279146b623fcd03e3c7da5279c3f35ee6d0d9b4e",
+      "released_sha256": "3b00509e9aa3cad13e5a71ea279146b623fcd03e3c7da5279c3f35ee6d0d9b4e"
+    }
+  ],
+  "omitted_after_dependency_review": [
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/scripts/a2a4_probe_v20.py",
+      "path": "src/pcb_routelab/_assets/legacy/scripts/a2a4_probe_v20.py",
+      "original_sha256": "63bd7912caf3f84c0d864a27ed30e6befbaeeb9bbc3d85bf7d6d86683a166b2b"
+    },
+    {
+      "source": "PCB辅助布线-Harness验证-2026-09-29/src/freerouting_v5.py",
+      "path": "src/pcb_routelab/_assets/legacy/src/freerouting_v5.py",
+      "original_sha256": "2972ffe344911a25b2842bf3b8b8568a3572d0306b93ac21e18f190d5ae82671"
+    },
+    {
+      "source": "论文准备-2026-10-05/拥塞策略发现研究-2026-10-09/formal-generators-2026-10-10.py",
+      "path": "src/pcb_routelab/_assets/congestion/formal-generators-2026-10-10.py",
+      "original_sha256": "91d1c621b45499eaf3df6b9d39745ceb4f8713530f6c20a9e701d33da5658dfb"
+    },
+    {
+      "source": "论文准备-2026-10-05/拥塞策略发现研究-2026-10-09/model-policy-r2-2026-10-11.py",
+      "path": "src/pcb_routelab/_assets/congestion/model-policy-r2-2026-10-11.py",
+      "original_sha256": "b41eec256f0680f9350de64c487b23b9401ef7a69239d1e9e27aae49c83402b0"
+    }
+  ]
+}

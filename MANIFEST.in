@@ -1,0 +1,18 @@
+include .gitignore .env.example
+include LICENSE README.md README.zh-CN.md THIRD_PARTY_NOTICES.md pyproject.toml
+include requirements*.txt source-origins.json source-lock.json release-files.json RELEASE_FILES.sha256
+recursive-include src *.py *.rs *.toml *.lock LICENSE VERSION *.txt
+recursive-include docs *.md
+recursive-include examples *.json *.kicad_pcb *.kicad_pro *.md
+recursive-include tests *.py
+recursive-include scripts *.py *.sh
+recursive-include research *.py *.md
+recursive-include licenses *.txt *.json
+recursive-include evidence *.json *.txt *.md
+recursive-include .github *.yml
+include src/pcb_routelab/_assets/krt/rust_router/.cargo/config.toml
+exclude .env
+exclude api.*.local.json
+global-exclude *.so *.dylib *.pyd *.pyc .DS_Store
+prune build
+prune dist

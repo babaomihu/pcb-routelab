@@ -1,0 +1,74 @@
+{
+  "category": "historical_research_not_release_rerun",
+  "v18_v20": {
+    "families": 24,
+    "combined_common_arms": {
+      "enhanced": {
+        "n": 48,
+        "success": 21,
+        "strict_success": 8,
+        "mean_remaining": 57.583333333333336
+      },
+      "native": {
+        "n": 48,
+        "success": 14,
+        "strict_success": 4,
+        "mean_remaining": 88
+      },
+      "rule": {
+        "n": 48,
+        "success": 14,
+        "strict_success": 4,
+        "mean_remaining": 73.54166666666667
+      }
+    },
+    "comparisons": {
+      "native": {
+        "session_discordance": [
+          7,
+          0
+        ],
+        "nominal_session_p": 0.015625,
+        "board_any_repeat_discordance": [
+          4,
+          0
+        ],
+        "board_sensitivity_p": 0.125
+      },
+      "rule": {
+        "session_discordance": [
+          7,
+          0
+        ],
+        "nominal_session_p": 0.015625,
+        "board_any_repeat_discordance": [
+          4,
+          0
+        ],
+        "board_sensitivity_p": 0.125
+      }
+    },
+    "all_gain_cases_first_candidate_connected_but_unsafe": true
+  },
+  "congestion_study": {
+    "baseline": {
+      "families": 17,
+      "legal_complete": 16,
+      "remaining_connections": 1,
+      "reference_fallbacks": 0,
+      "frozen_native_regressions": 0,
+      "frozen_objective": [
+        -16,
+        0,
+        1.0,
+        1.0
+      ]
+    },
+    "science_gate": "No demonstrated advantage; all selected functions are the common manual inc, with strict-identity ablations.",
+    "archived_physical_runs": 14560
+  },
+  "sources": {
+    "历史证据复核-2026-10-05.json": "93388d49df07cadfa720c4b83b5130e2d528e74bbcae487ca7c2974661963d68",
+    "拥塞策略发现研究-2026-10-09/final-completion-audit-2026-10-12.json": "6d6ed289efa43cad1257c429c8da857f62da08a05fb4937e51856629685f6d63"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "status": "passed",
+  "eligible": true,
+  "eligible_for_selection": true,
+  "input_coverage_eligible": true,
+  "safe": true,
+  "safety_pass": true,
+  "goal": true,
+  "goal_achieved": true,
+  "task_success": true,
+  "source": "$JOB/input/board.kicad_pcb",
+  "candidate": "$JOB/candidate/board.kicad_pcb",
+  "model_requests": 0,
+  "routing_actions": 0,
+  "input_hashes": {
+    "source": "a5d181099dc5ba1e8ce2a0cf2456e10fe6f2ff9d99f3e3d282d21a67524453fc",
+    "candidate": "0717071b6795a41000286411091936527b7da4b6814a17610facfa52692174f7",
+    "source_rules": {
+      ".kicad_pro": "336e86ca1a10336ca11eaa3cd91636a38bda3e1548d325f0a32df1a59a0c5500",
+      ".kicad_dru": null,
+      ".pro": null
+    },
+    "candidate_rules": {
+      ".kicad_pro": "336e86ca1a10336ca11eaa3cd91636a38bda3e1548d325f0a32df1a59a0c5500",
+      ".kicad_dru": null,
+      ".pro": null
+    }
+  },
+  "geometry_tolerance": 0,
+  "strict_text_comparison": {
+    "raw_layout_text_equal": true,
+    "raw_setup_text_equal": true,
+    "policy": "Raw serialization evidence retained; physical fields compared with same-version KiCad10 native API. net code/name serialization, HPGL plotting, added default fields are not geometry substitutes. Native duplicate-pad-jumper field checked; custom pads fail closed."
+  },
+  "input_geometry": {
+    "straight_track_length_mm": 0,
+    "tracks": 0,
+    "vias": 0,
+    "copper_arcs": 0,
+    "zones": 0
+  },
+  "final_geometry": {
+    "straight_track_length_mm": 40.0,
+    "tracks": 2,
+    "vias": 0,
+    "copper_arcs": 0,
+    "zones": 0
+  },
+  "geometry_delta": {
+    "straight_track_length_mm": 40.0,
+    "tracks": 2,
+    "vias": 0
+  },
+  "metrics": {
+    "straight_track_length_mm": 40.0,
+    "tracks": 2,
+    "vias": 0
+  },
+  "independent_reload_stable": true,
+  "per_net_connectivity_nonregression": true,
+  "initial_remaining_by_net_name": {
+    "SIGNAL_A": 1,
+    "SIGNAL_B": 1
+  },
+  "remaining_target_airwires": {
+    "SIGNAL_A": 0,
+    "SIGNAL_B": 0
+  },
+  "remaining_by_net_name": {},
+  "initial_unconnected": 2,
+  "final_unconnected": 0,
+  "unconnected_nonregression": true,
+  "new_drc_errors": [],
+  "native_delta": {
+    "initial_error_count": 0,
+    "final_error_count": 0,
+    "new_error_count": 0,
+    "removed_error_count": 0,
+    "new_errors": [],
+    "removed_errors": [],
+    "unmapped_error_item_uuids": [],
+    "identity_verified": true,
+    "identity_method": "Exact multiset(error type, UUID mapped to native wire/via or full static pad/footprint geometry+net identity, exact DRC item pos); no UUID-byte equality requirement; unknown identity fails closed"
+  },
+  "geometry": {
+    "original_pad_connections_preserved": true,
+    "locked_copper_preserved": true,
+    "copper_layer_count_preserved": true,
+    "non_target_tracks_preserved": true,
+    "non_target_vias_preserved": true,
+    "pads_preserved": true,
+    "footprints_preserved": true,
+    "physical_layout_preserved": true,
+    "outline_preserved": true,
+    "design_rules_preserved": true,
+    "netlist_names_preserved": true,
+    "coverage_verified": true
+  },
+  "protected_unchanged": true,
+  "rules_unchanged": true,
+  "source_hash_verified": true,
+  "rule_hashes_before": {
+    ".kicad_pro": "336e86ca1a10336ca11eaa3cd91636a38bda3e1548d325f0a32df1a59a0c5500",
+    ".kicad_dru": null,
+    ".pro": null
+  },
+  "rule_hashes_candidate": {
+    ".kicad_pro": "336e86ca1a10336ca11eaa3cd91636a38bda3e1548d325f0a32df1a59a0c5500",
+    ".kicad_dru": null,
+    ".pro": null
+  },
+  "scope": "zero zones and zero copper arcs; exact native geometry/net multiset, same-version native physical footprint/pad/layout fields (raw serialization evidence retained separately); no electrical signoff",
+  "source_candidate_unchanged": true
+}

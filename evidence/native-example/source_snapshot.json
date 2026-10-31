@@ -1,0 +1,3536 @@
+{
+  "layout_text": [
+    {
+      "GetPosition": [
+        20000000,
+        20000000
+      ],
+      "GetOrientationDegrees": 0.0,
+      "GetAttributes": 0,
+      "GetReference": "SIGNAL_A1",
+      "GetValue": "RouteLab fixture",
+      "IsLocked": false,
+      "GetLocalClearance": "None",
+      "GetLocalSolderMaskMargin": "None",
+      "GetLocalSolderPasteMargin": "None",
+      "GetLocalSolderPasteMarginRatio": "None",
+      "GetDuplicatePadNumbersAreJumpers": false,
+      "layer": "F.Cu"
+    },
+    {
+      "GetPosition": [
+        20000000,
+        30000000
+      ],
+      "GetOrientationDegrees": 0.0,
+      "GetAttributes": 0,
+      "GetReference": "SIGNAL_B1",
+      "GetValue": "RouteLab fixture",
+      "IsLocked": false,
+      "GetLocalClearance": "None",
+      "GetLocalSolderMaskMargin": "None",
+      "GetLocalSolderPasteMargin": "None",
+      "GetLocalSolderPasteMarginRatio": "None",
+      "GetDuplicatePadNumbersAreJumpers": false,
+      "layer": "F.Cu"
+    },
+    {
+      "GetPosition": [
+        40000000,
+        20000000
+      ],
+      "GetOrientationDegrees": 0.0,
+      "GetAttributes": 0,
+      "GetReference": "SIGNAL_A2",
+      "GetValue": "RouteLab fixture",
+      "IsLocked": false,
+      "GetLocalClearance": "None",
+      "GetLocalSolderMaskMargin": "None",
+      "GetLocalSolderPasteMargin": "None",
+      "GetLocalSolderPasteMarginRatio": "None",
+      "GetDuplicatePadNumbersAreJumpers": false,
+      "layer": "F.Cu"
+    },
+    {
+      "GetPosition": [
+        40000000,
+        30000000
+      ],
+      "GetOrientationDegrees": 0.0,
+      "GetAttributes": 0,
+      "GetReference": "SIGNAL_B2",
+      "GetValue": "RouteLab fixture",
+      "IsLocked": false,
+      "GetLocalClearance": "None",
+      "GetLocalSolderMaskMargin": "None",
+      "GetLocalSolderPasteMargin": "None",
+      "GetLocalSolderPasteMarginRatio": "None",
+      "GetDuplicatePadNumbersAreJumpers": false,
+      "layer": "F.Cu"
+    }
+  ],
+  "zone_count": 0,
+  "copper_arc_count": 0,
+  "net_names": {
+    "0": "",
+    "1": "SIGNAL_A",
+    "2": "SIGNAL_B"
+  },
+  "uuid_identities": {
+    "432d3ace-6c36-49df-ad2c-28ef9c0f8f97": [
+      "footprint",
+      {
+        "GetPosition": [
+          20000000,
+          20000000
+        ],
+        "GetOrientationDegrees": 0.0,
+        "GetAttributes": 0,
+        "GetReference": "SIGNAL_A1",
+        "GetValue": "RouteLab fixture",
+        "IsLocked": false,
+        "GetLocalClearance": "None",
+        "GetLocalSolderMaskMargin": "None",
+        "GetLocalSolderPasteMargin": "None",
+        "GetLocalSolderPasteMarginRatio": "None",
+        "GetDuplicatePadNumbersAreJumpers": false,
+        "layer": "F.Cu"
+      }
+    ],
+    "c8ad211e-5947-4df8-ad4c-a2be1bc1c7a9": [
+      "pad",
+      {
+        "GetPosition": [
+          20000000,
+          20000000
+        ],
+        "GetFPRelativePosition": [
+          0,
+          0
+        ],
+        "GetOrientationDegrees": 0.0,
+        "GetSize": [
+          1600000,
+          1600000
+        ],
+        "GetShape": 1,
+        "GetLayerSet": [
+          "F.Cu"
+        ],
+        "GetNumber": "1",
+        "GetAttribute": 1,
+        "GetDrillSize": [
+          0,
+          0
+        ],
+        "GetDrillShape": 1,
+        "GetOffset": [
+          0,
+          0
+        ],
+        "GetDelta": [
+          0,
+          0
+        ],
+        "GetRoundRectRadiusRatio": 0.25,
+        "GetChamferPositions": 0,
+        "GetChamferRectRatio": 0.2,
+        "GetLocalClearance": "None",
+        "GetLocalSolderMaskMargin": "None",
+        "GetLocalSolderPasteMargin": "None",
+        "GetLocalSolderPasteMarginRatio": "None",
+        "GetLocalThermalGapOverride": "None",
+        "GetLocalThermalSpokeWidthOverride": "None",
+        "net_name": "SIGNAL_A",
+        "footprint": {
+          "GetPosition": [
+            20000000,
+            20000000
+          ],
+          "GetOrientationDegrees": 0.0,
+          "GetAttributes": 0,
+          "GetReference": "SIGNAL_A1",
+          "GetValue": "RouteLab fixture",
+          "IsLocked": false,
+          "GetLocalClearance": "None",
+          "GetLocalSolderMaskMargin": "None",
+          "GetLocalSolderPasteMargin": "None",
+          "GetLocalSolderPasteMarginRatio": "None",
+          "GetDuplicatePadNumbersAreJumpers": false,
+          "layer": "F.Cu"
+        }
+      }
+    ],
+    "5e715aab-7f97-4885-860e-53f08cfde48f": [
+      "footprint",
+      {
+        "GetPosition": [
+          40000000,
+          30000000
+        ],
+        "GetOrientationDegrees": 0.0,
+        "GetAttributes": 0,
+        "GetReference": "SIGNAL_B2",
+        "GetValue": "RouteLab fixture",
+        "IsLocked": false,
+        "GetLocalClearance": "None",
+        "GetLocalSolderMaskMargin": "None",
+        "GetLocalSolderPasteMargin": "None",
+        "GetLocalSolderPasteMarginRatio": "None",
+        "GetDuplicatePadNumbersAreJumpers": false,
+        "layer": "F.Cu"
+      }
+    ],
+    "fa41f9e2-3c74-4ea4-9ccb-720430579cd7": [
+      "pad",
+      {
+        "GetPosition": [
+          40000000,
+          30000000
+        ],
+        "GetFPRelativePosition": [
+          0,
+          0
+        ],
+        "GetOrientationDegrees": 0.0,
+        "GetSize": [
+          1600000,
+          1600000
+        ],
+        "GetShape": 1,
+        "GetLayerSet": [
+          "F.Cu"
+        ],
+        "GetNumber": "1",
+        "GetAttribute": 1,
+        "GetDrillSize": [
+          0,
+          0
+        ],
+        "GetDrillShape": 1,
+        "GetOffset": [
+          0,
+          0
+        ],
+        "GetDelta": [
+          0,
+          0
+        ],
+        "GetRoundRectRadiusRatio": 0.25,
+        "GetChamferPositions": 0,
+        "GetChamferRectRatio": 0.2,
+        "GetLocalClearance": "None",
+        "GetLocalSolderMaskMargin": "None",
+        "GetLocalSolderPasteMargin": "None",
+        "GetLocalSolderPasteMarginRatio": "None",
+        "GetLocalThermalGapOverride": "None",
+        "GetLocalThermalSpokeWidthOverride": "None",
+        "net_name": "SIGNAL_B",
+        "footprint": {
+          "GetPosition": [
+            40000000,
+            30000000
+          ],
+          "GetOrientationDegrees": 0.0,
+          "GetAttributes": 0,
+          "GetReference": "SIGNAL_B2",
+          "GetValue": "RouteLab fixture",
+          "IsLocked": false,
+          "GetLocalClearance": "None",
+          "GetLocalSolderMaskMargin": "None",
+          "GetLocalSolderPasteMargin": "None",
+          "GetLocalSolderPasteMarginRatio": "None",
+          "GetDuplicatePadNumbersAreJumpers": false,
+          "layer": "F.Cu"
+        }
+      }
+    ],
+    "7a6f3d70-e8a7-46f2-890a-135cb9bdfb3c": [
+      "footprint",
+      {
+        "GetPosition": [
+          40000000,
+          20000000
+        ],
+        "GetOrientationDegrees": 0.0,
+        "GetAttributes": 0,
+        "GetReference": "SIGNAL_A2",
+        "GetValue": "RouteLab fixture",
+        "IsLocked": false,
+        "GetLocalClearance": "None",
+        "GetLocalSolderMaskMargin": "None",
+        "GetLocalSolderPasteMargin": "None",
+        "GetLocalSolderPasteMarginRatio": "None",
+        "GetDuplicatePadNumbersAreJumpers": false,
+        "layer": "F.Cu"
+      }
+    ],
+    "6eefcc10-6b23-4846-bfef-a5cb2b466907": [
+      "pad",
+      {
+        "GetPosition": [
+          40000000,
+          20000000
+        ],
+        "GetFPRelativePosition": [
+          0,
+          0
+        ],
+        "GetOrientationDegrees": 0.0,
+        "GetSize": [
+          1600000,
+          1600000
+        ],
+        "GetShape": 1,
+        "GetLayerSet": [
+          "F.Cu"
+        ],
+        "GetNumber": "1",
+        "GetAttribute": 1,
+        "GetDrillSize": [
+          0,
+          0
+        ],
+        "GetDrillShape": 1,
+        "GetOffset": [
+          0,
+          0
+        ],
+        "GetDelta": [
+          0,
+          0
+        ],
+        "GetRoundRectRadiusRatio": 0.25,
+        "GetChamferPositions": 0,
+        "GetChamferRectRatio": 0.2,
+        "GetLocalClearance": "None",
+        "GetLocalSolderMaskMargin": "None",
+        "GetLocalSolderPasteMargin": "None",
+        "GetLocalSolderPasteMarginRatio": "None",
+        "GetLocalThermalGapOverride": "None",
+        "GetLocalThermalSpokeWidthOverride": "None",
+        "net_name": "SIGNAL_A",
+        "footprint": {
+          "GetPosition": [
+            40000000,
+            20000000
+          ],
+          "GetOrientationDegrees": 0.0,
+          "GetAttributes": 0,
+          "GetReference": "SIGNAL_A2",
+          "GetValue": "RouteLab fixture",
+          "IsLocked": false,
+          "GetLocalClearance": "None",
+          "GetLocalSolderMaskMargin": "None",
+          "GetLocalSolderPasteMargin": "None",
+          "GetLocalSolderPasteMarginRatio": "None",
+          "GetDuplicatePadNumbersAreJumpers": false,
+          "layer": "F.Cu"
+        }
+      }
+    ],
+    "852cb38b-4c0b-4ea4-b8b1-149695035782": [
+      "footprint",
+      {
+        "GetPosition": [
+          20000000,
+          30000000
+        ],
+        "GetOrientationDegrees": 0.0,
+        "GetAttributes": 0,
+        "GetReference": "SIGNAL_B1",
+        "GetValue": "RouteLab fixture",
+        "IsLocked": false,
+        "GetLocalClearance": "None",
+        "GetLocalSolderMaskMargin": "None",
+        "GetLocalSolderPasteMargin": "None",
+        "GetLocalSolderPasteMarginRatio": "None",
+        "GetDuplicatePadNumbersAreJumpers": false,
+        "layer": "F.Cu"
+      }
+    ],
+    "fa1a920b-c6ed-49a4-9984-19679c9450b3": [
+      "pad",
+      {
+        "GetPosition": [
+          20000000,
+          30000000
+        ],
+        "GetFPRelativePosition": [
+          0,
+          0
+        ],
+        "GetOrientationDegrees": 0.0,
+        "GetSize": [
+          1600000,
+          1600000
+        ],
+        "GetShape": 1,
+        "GetLayerSet": [
+          "F.Cu"
+        ],
+        "GetNumber": "1",
+        "GetAttribute": 1,
+        "GetDrillSize": [
+          0,
+          0
+        ],
+        "GetDrillShape": 1,
+        "GetOffset": [
+          0,
+          0
+        ],
+        "GetDelta": [
+          0,
+          0
+        ],
+        "GetRoundRectRadiusRatio": 0.25,
+        "GetChamferPositions": 0,
+        "GetChamferRectRatio": 0.2,
+        "GetLocalClearance": "None",
+        "GetLocalSolderMaskMargin": "None",
+        "GetLocalSolderPasteMargin": "None",
+        "GetLocalSolderPasteMarginRatio": "None",
+        "GetLocalThermalGapOverride": "None",
+        "GetLocalThermalSpokeWidthOverride": "None",
+        "net_name": "SIGNAL_B",
+        "footprint": {
+          "GetPosition": [
+            20000000,
+            30000000
+          ],
+          "GetOrientationDegrees": 0.0,
+          "GetAttributes": 0,
+          "GetReference": "SIGNAL_B1",
+          "GetValue": "RouteLab fixture",
+          "IsLocked": false,
+          "GetLocalClearance": "None",
+          "GetLocalSolderMaskMargin": "None",
+          "GetLocalSolderPasteMargin": "None",
+          "GetLocalSolderPasteMarginRatio": "None",
+          "GetDuplicatePadNumbersAreJumpers": false,
+          "layer": "F.Cu"
+        }
+      }
+    ],
+    "26332d9a-08d9-4f2e-9ceb-d9a976a2a4be": [
+      "outline",
+      [
+        [
+          "atom",
+          "gr_line"
+        ],
+        [
+          [
+            "atom",
+            "end"
+          ],
+          [
+            "number",
+            "5E+1"
+          ],
+          [
+            "number",
+            "1E+1"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "layer"
+          ],
+          [
+            "quoted",
+            "Edge.Cuts"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "start"
+          ],
+          [
+            "number",
+            "1E+1"
+          ],
+          [
+            "number",
+            "1E+1"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "stroke"
+          ],
+          [
+            [
+              "atom",
+              "type"
+            ],
+            [
+              "atom",
+              "default"
+            ]
+          ],
+          [
+            [
+              "atom",
+              "width"
+            ],
+            [
+              "number",
+              "0.05"
+            ]
+          ]
+        ]
+      ]
+    ],
+    "cd23cf18-38a4-4e55-a541-1e098df10880": [
+      "outline",
+      [
+        [
+          "atom",
+          "gr_line"
+        ],
+        [
+          [
+            "atom",
+            "end"
+          ],
+          [
+            "number",
+            "1E+1"
+          ],
+          [
+            "number",
+            "1E+1"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "layer"
+          ],
+          [
+            "quoted",
+            "Edge.Cuts"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "start"
+          ],
+          [
+            "number",
+            "1E+1"
+          ],
+          [
+            "number",
+            "4E+1"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "stroke"
+          ],
+          [
+            [
+              "atom",
+              "type"
+            ],
+            [
+              "atom",
+              "default"
+            ]
+          ],
+          [
+            [
+              "atom",
+              "width"
+            ],
+            [
+              "number",
+              "0.05"
+            ]
+          ]
+        ]
+      ]
+    ],
+    "c801240d-2186-47bf-98b5-81d76649a5b3": [
+      "outline",
+      [
+        [
+          "atom",
+          "gr_line"
+        ],
+        [
+          [
+            "atom",
+            "end"
+          ],
+          [
+            "number",
+            "5E+1"
+          ],
+          [
+            "number",
+            "4E+1"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "layer"
+          ],
+          [
+            "quoted",
+            "Edge.Cuts"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "start"
+          ],
+          [
+            "number",
+            "5E+1"
+          ],
+          [
+            "number",
+            "1E+1"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "stroke"
+          ],
+          [
+            [
+              "atom",
+              "type"
+            ],
+            [
+              "atom",
+              "default"
+            ]
+          ],
+          [
+            [
+              "atom",
+              "width"
+            ],
+            [
+              "number",
+              "0.05"
+            ]
+          ]
+        ]
+      ]
+    ],
+    "a2f769ce-61dd-4c76-9010-d31f9fd0fd8b": [
+      "outline",
+      [
+        [
+          "atom",
+          "gr_line"
+        ],
+        [
+          [
+            "atom",
+            "end"
+          ],
+          [
+            "number",
+            "1E+1"
+          ],
+          [
+            "number",
+            "4E+1"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "layer"
+          ],
+          [
+            "quoted",
+            "Edge.Cuts"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "start"
+          ],
+          [
+            "number",
+            "5E+1"
+          ],
+          [
+            "number",
+            "4E+1"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "stroke"
+          ],
+          [
+            [
+              "atom",
+              "type"
+            ],
+            [
+              "atom",
+              "default"
+            ]
+          ],
+          [
+            [
+              "atom",
+              "width"
+            ],
+            [
+              "number",
+              "0.05"
+            ]
+          ]
+        ]
+      ]
+    ]
+  },
+  "raw_layout_text": [
+    [
+      [
+        "atom",
+        "footprint"
+      ],
+      [
+        "quoted",
+        ""
+      ],
+      [
+        [
+          "atom",
+          "at"
+        ],
+        [
+          "number",
+          "2E+1"
+        ],
+        [
+          "number",
+          "2E+1"
+        ]
+      ],
+      [
+        [
+          "atom",
+          "duplicate_pad_numbers_are_jumpers"
+        ],
+        [
+          "atom",
+          "no"
+        ]
+      ],
+      [
+        [
+          "atom",
+          "embedded_fonts"
+        ],
+        [
+          "atom",
+          "no"
+        ]
+      ],
+      [
+        [
+          "atom",
+          "layer"
+        ],
+        [
+          "quoted",
+          "F.Cu"
+        ]
+      ],
+      [
+        [
+          "atom",
+          "pad"
+        ],
+        [
+          "quoted",
+          "1"
+        ],
+        [
+          "atom",
+          "smd"
+        ],
+        [
+          "atom",
+          "rect"
+        ],
+        [
+          "net_name",
+          [
+            "quoted",
+            "SIGNAL_A"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "at"
+          ],
+          [
+            "number",
+            "0"
+          ],
+          [
+            "number",
+            "0"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "layers"
+          ],
+          [
+            "quoted",
+            "F.Cu"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "size"
+          ],
+          [
+            "number",
+            "1.6"
+          ],
+          [
+            "number",
+            "1.6"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "thermal_bridge_angle"
+          ],
+          [
+            "number",
+            "45"
+          ]
+        ]
+      ],
+      [
+        [
+          "atom",
+          "property"
+        ],
+        [
+          "quoted",
+          "Datasheet"
+        ],
+        [
+          "quoted",
+          ""
+        ],
+        [
+          [
+            "atom",
+            "at"
+          ],
+          [
+            "number",
+            "0"
+          ],
+          [
+            "number",
+            "0"
+          ],
+          [
+            "number",
+            "0"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "effects"
+          ],
+          [
+            [
+              "atom",
+              "font"
+            ],
+            [
+              [
+                "atom",
+                "size"
+              ],
+              [
+                "number",
+                "1.27"
+              ],
+              [
+                "number",
+                "1.27"
+              ]
+            ]
+          ]
+        ],
+        [
+          [
+            "atom",
+            "hide"
+          ],
+          [
+            "atom",
+            "yes"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "layer"
+          ],
+          [
+            "quoted",
+            "F.Fab"
+          ]
+        ]
+      ],
+      [
+        [
+          "atom",
+          "property"
+        ],
+        [
+          "quoted",
+          "Description"
+        ],
+        [
+          "quoted",
+          ""
+        ],
+        [
+          [
+            "atom",
+            "at"
+          ],
+          [
+            "number",
+            "0"
+          ],
+          [
+            "number",
+            "0"
+          ],
+          [
+            "number",
+            "0"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "effects"
+          ],
+          [
+            [
+              "atom",
+              "font"
+            ],
+            [
+              [
+                "atom",
+                "size"
+              ],
+              [
+                "number",
+                "1.27"
+              ],
+              [
+                "number",
+                "1.27"
+              ]
+            ]
+          ]
+        ],
+        [
+          [
+            "atom",
+            "hide"
+          ],
+          [
+            "atom",
+            "yes"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "layer"
+          ],
+          [
+            "quoted",
+            "F.Fab"
+          ]
+        ]
+      ],
+      [
+        [
+          "atom",
+          "property"
+        ],
+        [
+          "quoted",
+          "Reference"
+        ],
+        [
+          "quoted",
+          "SIGNAL_A1"
+        ],
+        [
+          [
+            "atom",
+            "at"
+          ],
+          [
+            "number",
+            "0"
+          ],
+          [
+            "number",
+            "0"
+          ],
+          [
+            "number",
+            "0"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "effects"
+          ],
+          [
+            [
+              "atom",
+              "font"
+            ],
+            [
+              [
+                "atom",
+                "size"
+              ],
+              [
+                "number",
+                "1.27"
+              ],
+              [
+                "number",
+                "1.27"
+              ]
+            ]
+          ]
+        ],
+        [
+          [
+            "atom",
+            "layer"
+          ],
+          [
+            "quoted",
+            "F.SilkS"
+          ]
+        ]
+      ],
+      [
+        [
+          "atom",
+          "property"
+        ],
+        [
+          "quoted",
+          "Value"
+        ],
+        [
+          "quoted",
+          "RouteLab fixture"
+        ],
+        [
+          [
+            "atom",
+            "at"
+          ],
+          [
+            "number",
+            "0"
+          ],
+          [
+            "number",
+            "0"
+          ],
+          [
+            "number",
+            "0"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "effects"
+          ],
+          [
+            [
+              "atom",
+              "font"
+            ],
+            [
+              [
+                "atom",
+                "size"
+              ],
+              [
+                "number",
+                "1.27"
+              ],
+              [
+                "number",
+                "1.27"
+              ]
+            ]
+          ]
+        ],
+        [
+          [
+            "atom",
+            "layer"
+          ],
+          [
+            "quoted",
+            "F.Fab"
+          ]
+        ]
+      ]
+    ],
+    [
+      [
+        "atom",
+        "footprint"
+      ],
+      [
+        "quoted",
+        ""
+      ],
+      [
+        [
+          "atom",
+          "at"
+        ],
+        [
+          "number",
+          "2E+1"
+        ],
+        [
+          "number",
+          "3E+1"
+        ]
+      ],
+      [
+        [
+          "atom",
+          "duplicate_pad_numbers_are_jumpers"
+        ],
+        [
+          "atom",
+          "no"
+        ]
+      ],
+      [
+        [
+          "atom",
+          "embedded_fonts"
+        ],
+        [
+          "atom",
+          "no"
+        ]
+      ],
+      [
+        [
+          "atom",
+          "layer"
+        ],
+        [
+          "quoted",
+          "F.Cu"
+        ]
+      ],
+      [
+        [
+          "atom",
+          "pad"
+        ],
+        [
+          "quoted",
+          "1"
+        ],
+        [
+          "atom",
+          "smd"
+        ],
+        [
+          "atom",
+          "rect"
+        ],
+        [
+          "net_name",
+          [
+            "quoted",
+            "SIGNAL_B"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "at"
+          ],
+          [
+            "number",
+            "0"
+          ],
+          [
+            "number",
+            "0"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "layers"
+          ],
+          [
+            "quoted",
+            "F.Cu"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "size"
+          ],
+          [
+            "number",
+            "1.6"
+          ],
+          [
+            "number",
+            "1.6"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "thermal_bridge_angle"
+          ],
+          [
+            "number",
+            "45"
+          ]
+        ]
+      ],
+      [
+        [
+          "atom",
+          "property"
+        ],
+        [
+          "quoted",
+          "Datasheet"
+        ],
+        [
+          "quoted",
+          ""
+        ],
+        [
+          [
+            "atom",
+            "at"
+          ],
+          [
+            "number",
+            "0"
+          ],
+          [
+            "number",
+            "0"
+          ],
+          [
+            "number",
+            "0"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "effects"
+          ],
+          [
+            [
+              "atom",
+              "font"
+            ],
+            [
+              [
+                "atom",
+                "size"
+              ],
+              [
+                "number",
+                "1.27"
+              ],
+              [
+                "number",
+                "1.27"
+              ]
+            ]
+          ]
+        ],
+        [
+          [
+            "atom",
+            "hide"
+          ],
+          [
+            "atom",
+            "yes"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "layer"
+          ],
+          [
+            "quoted",
+            "F.Fab"
+          ]
+        ]
+      ],
+      [
+        [
+          "atom",
+          "property"
+        ],
+        [
+          "quoted",
+          "Description"
+        ],
+        [
+          "quoted",
+          ""
+        ],
+        [
+          [
+            "atom",
+            "at"
+          ],
+          [
+            "number",
+            "0"
+          ],
+          [
+            "number",
+            "0"
+          ],
+          [
+            "number",
+            "0"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "effects"
+          ],
+          [
+            [
+              "atom",
+              "font"
+            ],
+            [
+              [
+                "atom",
+                "size"
+              ],
+              [
+                "number",
+                "1.27"
+              ],
+              [
+                "number",
+                "1.27"
+              ]
+            ]
+          ]
+        ],
+        [
+          [
+            "atom",
+            "hide"
+          ],
+          [
+            "atom",
+            "yes"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "layer"
+          ],
+          [
+            "quoted",
+            "F.Fab"
+          ]
+        ]
+      ],
+      [
+        [
+          "atom",
+          "property"
+        ],
+        [
+          "quoted",
+          "Reference"
+        ],
+        [
+          "quoted",
+          "SIGNAL_B1"
+        ],
+        [
+          [
+            "atom",
+            "at"
+          ],
+          [
+            "number",
+            "0"
+          ],
+          [
+            "number",
+            "0"
+          ],
+          [
+            "number",
+            "0"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "effects"
+          ],
+          [
+            [
+              "atom",
+              "font"
+            ],
+            [
+              [
+                "atom",
+                "size"
+              ],
+              [
+                "number",
+                "1.27"
+              ],
+              [
+                "number",
+                "1.27"
+              ]
+            ]
+          ]
+        ],
+        [
+          [
+            "atom",
+            "layer"
+          ],
+          [
+            "quoted",
+            "F.SilkS"
+          ]
+        ]
+      ],
+      [
+        [
+          "atom",
+          "property"
+        ],
+        [
+          "quoted",
+          "Value"
+        ],
+        [
+          "quoted",
+          "RouteLab fixture"
+        ],
+        [
+          [
+            "atom",
+            "at"
+          ],
+          [
+            "number",
+            "0"
+          ],
+          [
+            "number",
+            "0"
+          ],
+          [
+            "number",
+            "0"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "effects"
+          ],
+          [
+            [
+              "atom",
+              "font"
+            ],
+            [
+              [
+                "atom",
+                "size"
+              ],
+              [
+                "number",
+                "1.27"
+              ],
+              [
+                "number",
+                "1.27"
+              ]
+            ]
+          ]
+        ],
+        [
+          [
+            "atom",
+            "layer"
+          ],
+          [
+            "quoted",
+            "F.Fab"
+          ]
+        ]
+      ]
+    ],
+    [
+      [
+        "atom",
+        "footprint"
+      ],
+      [
+        "quoted",
+        ""
+      ],
+      [
+        [
+          "atom",
+          "at"
+        ],
+        [
+          "number",
+          "4E+1"
+        ],
+        [
+          "number",
+          "2E+1"
+        ]
+      ],
+      [
+        [
+          "atom",
+          "duplicate_pad_numbers_are_jumpers"
+        ],
+        [
+          "atom",
+          "no"
+        ]
+      ],
+      [
+        [
+          "atom",
+          "embedded_fonts"
+        ],
+        [
+          "atom",
+          "no"
+        ]
+      ],
+      [
+        [
+          "atom",
+          "layer"
+        ],
+        [
+          "quoted",
+          "F.Cu"
+        ]
+      ],
+      [
+        [
+          "atom",
+          "pad"
+        ],
+        [
+          "quoted",
+          "1"
+        ],
+        [
+          "atom",
+          "smd"
+        ],
+        [
+          "atom",
+          "rect"
+        ],
+        [
+          "net_name",
+          [
+            "quoted",
+            "SIGNAL_A"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "at"
+          ],
+          [
+            "number",
+            "0"
+          ],
+          [
+            "number",
+            "0"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "layers"
+          ],
+          [
+            "quoted",
+            "F.Cu"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "size"
+          ],
+          [
+            "number",
+            "1.6"
+          ],
+          [
+            "number",
+            "1.6"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "thermal_bridge_angle"
+          ],
+          [
+            "number",
+            "45"
+          ]
+        ]
+      ],
+      [
+        [
+          "atom",
+          "property"
+        ],
+        [
+          "quoted",
+          "Datasheet"
+        ],
+        [
+          "quoted",
+          ""
+        ],
+        [
+          [
+            "atom",
+            "at"
+          ],
+          [
+            "number",
+            "0"
+          ],
+          [
+            "number",
+            "0"
+          ],
+          [
+            "number",
+            "0"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "effects"
+          ],
+          [
+            [
+              "atom",
+              "font"
+            ],
+            [
+              [
+                "atom",
+                "size"
+              ],
+              [
+                "number",
+                "1.27"
+              ],
+              [
+                "number",
+                "1.27"
+              ]
+            ]
+          ]
+        ],
+        [
+          [
+            "atom",
+            "hide"
+          ],
+          [
+            "atom",
+            "yes"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "layer"
+          ],
+          [
+            "quoted",
+            "F.Fab"
+          ]
+        ]
+      ],
+      [
+        [
+          "atom",
+          "property"
+        ],
+        [
+          "quoted",
+          "Description"
+        ],
+        [
+          "quoted",
+          ""
+        ],
+        [
+          [
+            "atom",
+            "at"
+          ],
+          [
+            "number",
+            "0"
+          ],
+          [
+            "number",
+            "0"
+          ],
+          [
+            "number",
+            "0"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "effects"
+          ],
+          [
+            [
+              "atom",
+              "font"
+            ],
+            [
+              [
+                "atom",
+                "size"
+              ],
+              [
+                "number",
+                "1.27"
+              ],
+              [
+                "number",
+                "1.27"
+              ]
+            ]
+          ]
+        ],
+        [
+          [
+            "atom",
+            "hide"
+          ],
+          [
+            "atom",
+            "yes"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "layer"
+          ],
+          [
+            "quoted",
+            "F.Fab"
+          ]
+        ]
+      ],
+      [
+        [
+          "atom",
+          "property"
+        ],
+        [
+          "quoted",
+          "Reference"
+        ],
+        [
+          "quoted",
+          "SIGNAL_A2"
+        ],
+        [
+          [
+            "atom",
+            "at"
+          ],
+          [
+            "number",
+            "0"
+          ],
+          [
+            "number",
+            "0"
+          ],
+          [
+            "number",
+            "0"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "effects"
+          ],
+          [
+            [
+              "atom",
+              "font"
+            ],
+            [
+              [
+                "atom",
+                "size"
+              ],
+              [
+                "number",
+                "1.27"
+              ],
+              [
+                "number",
+                "1.27"
+              ]
+            ]
+          ]
+        ],
+        [
+          [
+            "atom",
+            "layer"
+          ],
+          [
+            "quoted",
+            "F.SilkS"
+          ]
+        ]
+      ],
+      [
+        [
+          "atom",
+          "property"
+        ],
+        [
+          "quoted",
+          "Value"
+        ],
+        [
+          "quoted",
+          "RouteLab fixture"
+        ],
+        [
+          [
+            "atom",
+            "at"
+          ],
+          [
+            "number",
+            "0"
+          ],
+          [
+            "number",
+            "0"
+          ],
+          [
+            "number",
+            "0"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "effects"
+          ],
+          [
+            [
+              "atom",
+              "font"
+            ],
+            [
+              [
+                "atom",
+                "size"
+              ],
+              [
+                "number",
+                "1.27"
+              ],
+              [
+                "number",
+                "1.27"
+              ]
+            ]
+          ]
+        ],
+        [
+          [
+            "atom",
+            "layer"
+          ],
+          [
+            "quoted",
+            "F.Fab"
+          ]
+        ]
+      ]
+    ],
+    [
+      [
+        "atom",
+        "footprint"
+      ],
+      [
+        "quoted",
+        ""
+      ],
+      [
+        [
+          "atom",
+          "at"
+        ],
+        [
+          "number",
+          "4E+1"
+        ],
+        [
+          "number",
+          "3E+1"
+        ]
+      ],
+      [
+        [
+          "atom",
+          "duplicate_pad_numbers_are_jumpers"
+        ],
+        [
+          "atom",
+          "no"
+        ]
+      ],
+      [
+        [
+          "atom",
+          "embedded_fonts"
+        ],
+        [
+          "atom",
+          "no"
+        ]
+      ],
+      [
+        [
+          "atom",
+          "layer"
+        ],
+        [
+          "quoted",
+          "F.Cu"
+        ]
+      ],
+      [
+        [
+          "atom",
+          "pad"
+        ],
+        [
+          "quoted",
+          "1"
+        ],
+        [
+          "atom",
+          "smd"
+        ],
+        [
+          "atom",
+          "rect"
+        ],
+        [
+          "net_name",
+          [
+            "quoted",
+            "SIGNAL_B"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "at"
+          ],
+          [
+            "number",
+            "0"
+          ],
+          [
+            "number",
+            "0"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "layers"
+          ],
+          [
+            "quoted",
+            "F.Cu"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "size"
+          ],
+          [
+            "number",
+            "1.6"
+          ],
+          [
+            "number",
+            "1.6"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "thermal_bridge_angle"
+          ],
+          [
+            "number",
+            "45"
+          ]
+        ]
+      ],
+      [
+        [
+          "atom",
+          "property"
+        ],
+        [
+          "quoted",
+          "Datasheet"
+        ],
+        [
+          "quoted",
+          ""
+        ],
+        [
+          [
+            "atom",
+            "at"
+          ],
+          [
+            "number",
+            "0"
+          ],
+          [
+            "number",
+            "0"
+          ],
+          [
+            "number",
+            "0"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "effects"
+          ],
+          [
+            [
+              "atom",
+              "font"
+            ],
+            [
+              [
+                "atom",
+                "size"
+              ],
+              [
+                "number",
+                "1.27"
+              ],
+              [
+                "number",
+                "1.27"
+              ]
+            ]
+          ]
+        ],
+        [
+          [
+            "atom",
+            "hide"
+          ],
+          [
+            "atom",
+            "yes"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "layer"
+          ],
+          [
+            "quoted",
+            "F.Fab"
+          ]
+        ]
+      ],
+      [
+        [
+          "atom",
+          "property"
+        ],
+        [
+          "quoted",
+          "Description"
+        ],
+        [
+          "quoted",
+          ""
+        ],
+        [
+          [
+            "atom",
+            "at"
+          ],
+          [
+            "number",
+            "0"
+          ],
+          [
+            "number",
+            "0"
+          ],
+          [
+            "number",
+            "0"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "effects"
+          ],
+          [
+            [
+              "atom",
+              "font"
+            ],
+            [
+              [
+                "atom",
+                "size"
+              ],
+              [
+                "number",
+                "1.27"
+              ],
+              [
+                "number",
+                "1.27"
+              ]
+            ]
+          ]
+        ],
+        [
+          [
+            "atom",
+            "hide"
+          ],
+          [
+            "atom",
+            "yes"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "layer"
+          ],
+          [
+            "quoted",
+            "F.Fab"
+          ]
+        ]
+      ],
+      [
+        [
+          "atom",
+          "property"
+        ],
+        [
+          "quoted",
+          "Reference"
+        ],
+        [
+          "quoted",
+          "SIGNAL_B2"
+        ],
+        [
+          [
+            "atom",
+            "at"
+          ],
+          [
+            "number",
+            "0"
+          ],
+          [
+            "number",
+            "0"
+          ],
+          [
+            "number",
+            "0"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "effects"
+          ],
+          [
+            [
+              "atom",
+              "font"
+            ],
+            [
+              [
+                "atom",
+                "size"
+              ],
+              [
+                "number",
+                "1.27"
+              ],
+              [
+                "number",
+                "1.27"
+              ]
+            ]
+          ]
+        ],
+        [
+          [
+            "atom",
+            "layer"
+          ],
+          [
+            "quoted",
+            "F.SilkS"
+          ]
+        ]
+      ],
+      [
+        [
+          "atom",
+          "property"
+        ],
+        [
+          "quoted",
+          "Value"
+        ],
+        [
+          "quoted",
+          "RouteLab fixture"
+        ],
+        [
+          [
+            "atom",
+            "at"
+          ],
+          [
+            "number",
+            "0"
+          ],
+          [
+            "number",
+            "0"
+          ],
+          [
+            "number",
+            "0"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "effects"
+          ],
+          [
+            [
+              "atom",
+              "font"
+            ],
+            [
+              [
+                "atom",
+                "size"
+              ],
+              [
+                "number",
+                "1.27"
+              ],
+              [
+                "number",
+                "1.27"
+              ]
+            ]
+          ]
+        ],
+        [
+          [
+            "atom",
+            "layer"
+          ],
+          [
+            "quoted",
+            "F.Fab"
+          ]
+        ]
+      ]
+    ]
+  ],
+  "raw_setup_text": [
+    [
+      [
+        "atom",
+        "setup"
+      ],
+      [
+        [
+          "atom",
+          "allow_soldermask_bridges_in_footprints"
+        ],
+        [
+          "atom",
+          "no"
+        ]
+      ],
+      [
+        [
+          "atom",
+          "capping"
+        ],
+        [
+          "atom",
+          "no"
+        ]
+      ],
+      [
+        [
+          "atom",
+          "covering"
+        ],
+        [
+          [
+            "atom",
+            "back"
+          ],
+          [
+            "atom",
+            "no"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "front"
+          ],
+          [
+            "atom",
+            "no"
+          ]
+        ]
+      ],
+      [
+        [
+          "atom",
+          "filling"
+        ],
+        [
+          "atom",
+          "no"
+        ]
+      ],
+      [
+        [
+          "atom",
+          "pad_to_mask_clearance"
+        ],
+        [
+          "number",
+          "0"
+        ]
+      ],
+      [
+        [
+          "atom",
+          "pcbplotparams"
+        ],
+        [
+          [
+            "atom",
+            "creategerberjobfile"
+          ],
+          [
+            "atom",
+            "yes"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "crossoutdnponfab"
+          ],
+          [
+            "atom",
+            "yes"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "dashed_line_dash_ratio"
+          ],
+          [
+            "number",
+            "12"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "dashed_line_gap_ratio"
+          ],
+          [
+            "number",
+            "3"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "disableapertmacros"
+          ],
+          [
+            "atom",
+            "no"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "drillshape"
+          ],
+          [
+            "number",
+            "1"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "dxfimperialunits"
+          ],
+          [
+            "atom",
+            "yes"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "dxfpolygonmode"
+          ],
+          [
+            "atom",
+            "yes"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "dxfusepcbnewfont"
+          ],
+          [
+            "atom",
+            "yes"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "hidednponfab"
+          ],
+          [
+            "atom",
+            "no"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "layerselection"
+          ],
+          [
+            "atom",
+            "0x00000000_00000000_55555555_5755f5ff"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "mirror"
+          ],
+          [
+            "atom",
+            "no"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "mode"
+          ],
+          [
+            "number",
+            "1"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "outputdirectory"
+          ],
+          [
+            "quoted",
+            ""
+          ]
+        ],
+        [
+          [
+            "atom",
+            "outputformat"
+          ],
+          [
+            "number",
+            "1"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "pdf_back_fp_property_popups"
+          ],
+          [
+            "atom",
+            "yes"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "pdf_front_fp_property_popups"
+          ],
+          [
+            "atom",
+            "yes"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "pdf_metadata"
+          ],
+          [
+            "atom",
+            "yes"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "pdf_single_document"
+          ],
+          [
+            "atom",
+            "no"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "plot_black_and_white"
+          ],
+          [
+            "atom",
+            "yes"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "plot_on_all_layers_selection"
+          ],
+          [
+            "atom",
+            "0x00000000_00000000_00000000_00000000"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "plotframeref"
+          ],
+          [
+            "atom",
+            "no"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "plotpadnumbers"
+          ],
+          [
+            "atom",
+            "no"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "psa4output"
+          ],
+          [
+            "atom",
+            "no"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "psnegative"
+          ],
+          [
+            "atom",
+            "no"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "scaleselection"
+          ],
+          [
+            "number",
+            "1"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "sketchdnponfab"
+          ],
+          [
+            "atom",
+            "yes"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "sketchpadsonfab"
+          ],
+          [
+            "atom",
+            "no"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "subtractmaskfromsilk"
+          ],
+          [
+            "atom",
+            "no"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "svgprecision"
+          ],
+          [
+            "number",
+            "4"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "useauxorigin"
+          ],
+          [
+            "atom",
+            "no"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "usegerberadvancedattributes"
+          ],
+          [
+            "atom",
+            "yes"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "usegerberattributes"
+          ],
+          [
+            "atom",
+            "yes"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "usegerberextensions"
+          ],
+          [
+            "atom",
+            "no"
+          ]
+        ]
+      ],
+      [
+        [
+          "atom",
+          "plugging"
+        ],
+        [
+          [
+            "atom",
+            "back"
+          ],
+          [
+            "atom",
+            "no"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "front"
+          ],
+          [
+            "atom",
+            "no"
+          ]
+        ]
+      ],
+      [
+        [
+          "atom",
+          "tenting"
+        ],
+        [
+          [
+            "atom",
+            "back"
+          ],
+          [
+            "atom",
+            "yes"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "front"
+          ],
+          [
+            "atom",
+            "yes"
+          ]
+        ]
+      ]
+    ]
+  ],
+  "pad_components": [
+    [
+      "{\"GetAttribute\": 1, \"GetChamferPositions\": 0, \"GetChamferRectRatio\": 0.2, \"GetDelta\": [0, 0], \"GetDrillShape\": 1, \"GetDrillSize\": [0, 0], \"GetFPRelativePosition\": [0, 0], \"GetLayerSet\": [\"F.Cu\"], \"GetLocalClearance\": \"None\", \"GetLocalSolderMaskMargin\": \"None\", \"GetLocalSolderPasteMargin\": \"None\", \"GetLocalSolderPasteMarginRatio\": \"None\", \"GetLocalThermalGapOverride\": \"None\", \"GetLocalThermalSpokeWidthOverride\": \"None\", \"GetNumber\": \"1\", \"GetOffset\": [0, 0], \"GetOrientationDegrees\": 0.0, \"GetPosition\": [20000000, 20000000], \"GetRoundRectRadiusRatio\": 0.25, \"GetShape\": 1, \"GetSize\": [1600000, 1600000], \"footprint\": {\"GetAttributes\": 0, \"GetDuplicatePadNumbersAreJumpers\": false, \"GetLocalClearance\": \"None\", \"GetLocalSolderMaskMargin\": \"None\", \"GetLocalSolderPasteMargin\": \"None\", \"GetLocalSolderPasteMarginRatio\": \"None\", \"GetOrientationDegrees\": 0.0, \"GetPosition\": [20000000, 20000000], \"GetReference\": \"SIGNAL_A1\", \"GetValue\": \"RouteLab fixture\", \"IsLocked\": false, \"layer\": \"F.Cu\"}, \"net_name\": \"SIGNAL_A\"}"
+    ],
+    [
+      "{\"GetAttribute\": 1, \"GetChamferPositions\": 0, \"GetChamferRectRatio\": 0.2, \"GetDelta\": [0, 0], \"GetDrillShape\": 1, \"GetDrillSize\": [0, 0], \"GetFPRelativePosition\": [0, 0], \"GetLayerSet\": [\"F.Cu\"], \"GetLocalClearance\": \"None\", \"GetLocalSolderMaskMargin\": \"None\", \"GetLocalSolderPasteMargin\": \"None\", \"GetLocalSolderPasteMarginRatio\": \"None\", \"GetLocalThermalGapOverride\": \"None\", \"GetLocalThermalSpokeWidthOverride\": \"None\", \"GetNumber\": \"1\", \"GetOffset\": [0, 0], \"GetOrientationDegrees\": 0.0, \"GetPosition\": [20000000, 30000000], \"GetRoundRectRadiusRatio\": 0.25, \"GetShape\": 1, \"GetSize\": [1600000, 1600000], \"footprint\": {\"GetAttributes\": 0, \"GetDuplicatePadNumbersAreJumpers\": false, \"GetLocalClearance\": \"None\", \"GetLocalSolderMaskMargin\": \"None\", \"GetLocalSolderPasteMargin\": \"None\", \"GetLocalSolderPasteMarginRatio\": \"None\", \"GetOrientationDegrees\": 0.0, \"GetPosition\": [20000000, 30000000], \"GetReference\": \"SIGNAL_B1\", \"GetValue\": \"RouteLab fixture\", \"IsLocked\": false, \"layer\": \"F.Cu\"}, \"net_name\": \"SIGNAL_B\"}"
+    ],
+    [
+      "{\"GetAttribute\": 1, \"GetChamferPositions\": 0, \"GetChamferRectRatio\": 0.2, \"GetDelta\": [0, 0], \"GetDrillShape\": 1, \"GetDrillSize\": [0, 0], \"GetFPRelativePosition\": [0, 0], \"GetLayerSet\": [\"F.Cu\"], \"GetLocalClearance\": \"None\", \"GetLocalSolderMaskMargin\": \"None\", \"GetLocalSolderPasteMargin\": \"None\", \"GetLocalSolderPasteMarginRatio\": \"None\", \"GetLocalThermalGapOverride\": \"None\", \"GetLocalThermalSpokeWidthOverride\": \"None\", \"GetNumber\": \"1\", \"GetOffset\": [0, 0], \"GetOrientationDegrees\": 0.0, \"GetPosition\": [40000000, 20000000], \"GetRoundRectRadiusRatio\": 0.25, \"GetShape\": 1, \"GetSize\": [1600000, 1600000], \"footprint\": {\"GetAttributes\": 0, \"GetDuplicatePadNumbersAreJumpers\": false, \"GetLocalClearance\": \"None\", \"GetLocalSolderMaskMargin\": \"None\", \"GetLocalSolderPasteMargin\": \"None\", \"GetLocalSolderPasteMarginRatio\": \"None\", \"GetOrientationDegrees\": 0.0, \"GetPosition\": [40000000, 20000000], \"GetReference\": \"SIGNAL_A2\", \"GetValue\": \"RouteLab fixture\", \"IsLocked\": false, \"layer\": \"F.Cu\"}, \"net_name\": \"SIGNAL_A\"}"
+    ],
+    [
+      "{\"GetAttribute\": 1, \"GetChamferPositions\": 0, \"GetChamferRectRatio\": 0.2, \"GetDelta\": [0, 0], \"GetDrillShape\": 1, \"GetDrillSize\": [0, 0], \"GetFPRelativePosition\": [0, 0], \"GetLayerSet\": [\"F.Cu\"], \"GetLocalClearance\": \"None\", \"GetLocalSolderMaskMargin\": \"None\", \"GetLocalSolderPasteMargin\": \"None\", \"GetLocalSolderPasteMarginRatio\": \"None\", \"GetLocalThermalGapOverride\": \"None\", \"GetLocalThermalSpokeWidthOverride\": \"None\", \"GetNumber\": \"1\", \"GetOffset\": [0, 0], \"GetOrientationDegrees\": 0.0, \"GetPosition\": [40000000, 30000000], \"GetRoundRectRadiusRatio\": 0.25, \"GetShape\": 1, \"GetSize\": [1600000, 1600000], \"footprint\": {\"GetAttributes\": 0, \"GetDuplicatePadNumbersAreJumpers\": false, \"GetLocalClearance\": \"None\", \"GetLocalSolderMaskMargin\": \"None\", \"GetLocalSolderPasteMargin\": \"None\", \"GetLocalSolderPasteMarginRatio\": \"None\", \"GetOrientationDegrees\": 0.0, \"GetPosition\": [40000000, 30000000], \"GetReference\": \"SIGNAL_B2\", \"GetValue\": \"RouteLab fixture\", \"IsLocked\": false, \"layer\": \"F.Cu\"}, \"net_name\": \"SIGNAL_B\"}"
+    ]
+  ],
+  "locked_copper": [],
+  "tracks": [],
+  "vias": [],
+  "uuid_net_names": {
+    "c8ad211e-5947-4df8-ad4c-a2be1bc1c7a9": "SIGNAL_A",
+    "fa41f9e2-3c74-4ea4-9ccb-720430579cd7": "SIGNAL_B",
+    "6eefcc10-6b23-4846-bfef-a5cb2b466907": "SIGNAL_A",
+    "fa1a920b-c6ed-49a4-9984-19679c9450b3": "SIGNAL_B"
+  },
+  "copper_layers": 2,
+  "native_version": "10.0.4",
+  "pads": [
+    {
+      "GetPosition": [
+        20000000,
+        20000000
+      ],
+      "GetFPRelativePosition": [
+        0,
+        0
+      ],
+      "GetOrientationDegrees": 0.0,
+      "GetSize": [
+        1600000,
+        1600000
+      ],
+      "GetShape": 1,
+      "GetLayerSet": [
+        "F.Cu"
+      ],
+      "GetNumber": "1",
+      "GetAttribute": 1,
+      "GetDrillSize": [
+        0,
+        0
+      ],
+      "GetDrillShape": 1,
+      "GetOffset": [
+        0,
+        0
+      ],
+      "GetDelta": [
+        0,
+        0
+      ],
+      "GetRoundRectRadiusRatio": 0.25,
+      "GetChamferPositions": 0,
+      "GetChamferRectRatio": 0.2,
+      "GetLocalClearance": "None",
+      "GetLocalSolderMaskMargin": "None",
+      "GetLocalSolderPasteMargin": "None",
+      "GetLocalSolderPasteMarginRatio": "None",
+      "GetLocalThermalGapOverride": "None",
+      "GetLocalThermalSpokeWidthOverride": "None",
+      "net_name": "SIGNAL_A",
+      "footprint": {
+        "GetPosition": [
+          20000000,
+          20000000
+        ],
+        "GetOrientationDegrees": 0.0,
+        "GetAttributes": 0,
+        "GetReference": "SIGNAL_A1",
+        "GetValue": "RouteLab fixture",
+        "IsLocked": false,
+        "GetLocalClearance": "None",
+        "GetLocalSolderMaskMargin": "None",
+        "GetLocalSolderPasteMargin": "None",
+        "GetLocalSolderPasteMarginRatio": "None",
+        "GetDuplicatePadNumbersAreJumpers": false,
+        "layer": "F.Cu"
+      }
+    },
+    {
+      "GetPosition": [
+        20000000,
+        30000000
+      ],
+      "GetFPRelativePosition": [
+        0,
+        0
+      ],
+      "GetOrientationDegrees": 0.0,
+      "GetSize": [
+        1600000,
+        1600000
+      ],
+      "GetShape": 1,
+      "GetLayerSet": [
+        "F.Cu"
+      ],
+      "GetNumber": "1",
+      "GetAttribute": 1,
+      "GetDrillSize": [
+        0,
+        0
+      ],
+      "GetDrillShape": 1,
+      "GetOffset": [
+        0,
+        0
+      ],
+      "GetDelta": [
+        0,
+        0
+      ],
+      "GetRoundRectRadiusRatio": 0.25,
+      "GetChamferPositions": 0,
+      "GetChamferRectRatio": 0.2,
+      "GetLocalClearance": "None",
+      "GetLocalSolderMaskMargin": "None",
+      "GetLocalSolderPasteMargin": "None",
+      "GetLocalSolderPasteMarginRatio": "None",
+      "GetLocalThermalGapOverride": "None",
+      "GetLocalThermalSpokeWidthOverride": "None",
+      "net_name": "SIGNAL_B",
+      "footprint": {
+        "GetPosition": [
+          20000000,
+          30000000
+        ],
+        "GetOrientationDegrees": 0.0,
+        "GetAttributes": 0,
+        "GetReference": "SIGNAL_B1",
+        "GetValue": "RouteLab fixture",
+        "IsLocked": false,
+        "GetLocalClearance": "None",
+        "GetLocalSolderMaskMargin": "None",
+        "GetLocalSolderPasteMargin": "None",
+        "GetLocalSolderPasteMarginRatio": "None",
+        "GetDuplicatePadNumbersAreJumpers": false,
+        "layer": "F.Cu"
+      }
+    },
+    {
+      "GetPosition": [
+        40000000,
+        20000000
+      ],
+      "GetFPRelativePosition": [
+        0,
+        0
+      ],
+      "GetOrientationDegrees": 0.0,
+      "GetSize": [
+        1600000,
+        1600000
+      ],
+      "GetShape": 1,
+      "GetLayerSet": [
+        "F.Cu"
+      ],
+      "GetNumber": "1",
+      "GetAttribute": 1,
+      "GetDrillSize": [
+        0,
+        0
+      ],
+      "GetDrillShape": 1,
+      "GetOffset": [
+        0,
+        0
+      ],
+      "GetDelta": [
+        0,
+        0
+      ],
+      "GetRoundRectRadiusRatio": 0.25,
+      "GetChamferPositions": 0,
+      "GetChamferRectRatio": 0.2,
+      "GetLocalClearance": "None",
+      "GetLocalSolderMaskMargin": "None",
+      "GetLocalSolderPasteMargin": "None",
+      "GetLocalSolderPasteMarginRatio": "None",
+      "GetLocalThermalGapOverride": "None",
+      "GetLocalThermalSpokeWidthOverride": "None",
+      "net_name": "SIGNAL_A",
+      "footprint": {
+        "GetPosition": [
+          40000000,
+          20000000
+        ],
+        "GetOrientationDegrees": 0.0,
+        "GetAttributes": 0,
+        "GetReference": "SIGNAL_A2",
+        "GetValue": "RouteLab fixture",
+        "IsLocked": false,
+        "GetLocalClearance": "None",
+        "GetLocalSolderMaskMargin": "None",
+        "GetLocalSolderPasteMargin": "None",
+        "GetLocalSolderPasteMarginRatio": "None",
+        "GetDuplicatePadNumbersAreJumpers": false,
+        "layer": "F.Cu"
+      }
+    },
+    {
+      "GetPosition": [
+        40000000,
+        30000000
+      ],
+      "GetFPRelativePosition": [
+        0,
+        0
+      ],
+      "GetOrientationDegrees": 0.0,
+      "GetSize": [
+        1600000,
+        1600000
+      ],
+      "GetShape": 1,
+      "GetLayerSet": [
+        "F.Cu"
+      ],
+      "GetNumber": "1",
+      "GetAttribute": 1,
+      "GetDrillSize": [
+        0,
+        0
+      ],
+      "GetDrillShape": 1,
+      "GetOffset": [
+        0,
+        0
+      ],
+      "GetDelta": [
+        0,
+        0
+      ],
+      "GetRoundRectRadiusRatio": 0.25,
+      "GetChamferPositions": 0,
+      "GetChamferRectRatio": 0.2,
+      "GetLocalClearance": "None",
+      "GetLocalSolderMaskMargin": "None",
+      "GetLocalSolderPasteMargin": "None",
+      "GetLocalSolderPasteMarginRatio": "None",
+      "GetLocalThermalGapOverride": "None",
+      "GetLocalThermalSpokeWidthOverride": "None",
+      "net_name": "SIGNAL_B",
+      "footprint": {
+        "GetPosition": [
+          40000000,
+          30000000
+        ],
+        "GetOrientationDegrees": 0.0,
+        "GetAttributes": 0,
+        "GetReference": "SIGNAL_B2",
+        "GetValue": "RouteLab fixture",
+        "IsLocked": false,
+        "GetLocalClearance": "None",
+        "GetLocalSolderMaskMargin": "None",
+        "GetLocalSolderPasteMargin": "None",
+        "GetLocalSolderPasteMarginRatio": "None",
+        "GetDuplicatePadNumbersAreJumpers": false,
+        "layer": "F.Cu"
+      }
+    }
+  ],
+  "footprints": [
+    {
+      "GetPosition": [
+        20000000,
+        20000000
+      ],
+      "GetOrientationDegrees": 0.0,
+      "GetAttributes": 0,
+      "GetReference": "SIGNAL_A1",
+      "GetValue": "RouteLab fixture",
+      "IsLocked": false,
+      "GetLocalClearance": "None",
+      "GetLocalSolderMaskMargin": "None",
+      "GetLocalSolderPasteMargin": "None",
+      "GetLocalSolderPasteMarginRatio": "None",
+      "GetDuplicatePadNumbersAreJumpers": false,
+      "layer": "F.Cu"
+    },
+    {
+      "GetPosition": [
+        20000000,
+        30000000
+      ],
+      "GetOrientationDegrees": 0.0,
+      "GetAttributes": 0,
+      "GetReference": "SIGNAL_B1",
+      "GetValue": "RouteLab fixture",
+      "IsLocked": false,
+      "GetLocalClearance": "None",
+      "GetLocalSolderMaskMargin": "None",
+      "GetLocalSolderPasteMargin": "None",
+      "GetLocalSolderPasteMarginRatio": "None",
+      "GetDuplicatePadNumbersAreJumpers": false,
+      "layer": "F.Cu"
+    },
+    {
+      "GetPosition": [
+        40000000,
+        20000000
+      ],
+      "GetOrientationDegrees": 0.0,
+      "GetAttributes": 0,
+      "GetReference": "SIGNAL_A2",
+      "GetValue": "RouteLab fixture",
+      "IsLocked": false,
+      "GetLocalClearance": "None",
+      "GetLocalSolderMaskMargin": "None",
+      "GetLocalSolderPasteMargin": "None",
+      "GetLocalSolderPasteMarginRatio": "None",
+      "GetDuplicatePadNumbersAreJumpers": false,
+      "layer": "F.Cu"
+    },
+    {
+      "GetPosition": [
+        40000000,
+        30000000
+      ],
+      "GetOrientationDegrees": 0.0,
+      "GetAttributes": 0,
+      "GetReference": "SIGNAL_B2",
+      "GetValue": "RouteLab fixture",
+      "IsLocked": false,
+      "GetLocalClearance": "None",
+      "GetLocalSolderMaskMargin": "None",
+      "GetLocalSolderPasteMargin": "None",
+      "GetLocalSolderPasteMarginRatio": "None",
+      "GetDuplicatePadNumbersAreJumpers": false,
+      "layer": "F.Cu"
+    }
+  ],
+  "design_rules": {
+    "m_MinClearance": 200000,
+    "m_TrackMinWidth": 200000,
+    "m_ViasMinSize": 600000,
+    "m_ViasMinAnnularWidth": 150000,
+    "m_MinThroughDrill": 300000,
+    "m_MicroViasMinDrill": 100000,
+    "m_MicroViasMinSize": 200000,
+    "m_CopperEdgeClearance": 250000,
+    "m_HoleClearance": 250000,
+    "m_HoleToHoleMin": 250000,
+    "m_SolderMaskExpansion": 0,
+    "m_SolderMaskMinWidth": 0,
+    "m_SolderMaskToCopperClearance": 0,
+    "m_SolderPasteMargin": 0,
+    "m_SolderPasteMarginRatio": 0.0,
+    "m_AllowSoldermaskBridgesInFPs": false,
+    "m_TentViasBack": true,
+    "m_TentViasFront": true,
+    "m_CapVias": false,
+    "m_FillVias": false,
+    "m_PlugViasBack": false,
+    "m_PlugViasFront": false,
+    "m_CoverViasBack": false,
+    "m_CoverViasFront": false,
+    "effective_netclasses": {
+      "SIGNAL_A": {
+        "GetClearance": 200000,
+        "GetTrackWidth": 300000,
+        "GetViaDiameter": 600000,
+        "GetViaDrill": 300000,
+        "GetuViaDiameter": 300000,
+        "GetuViaDrill": 100000,
+        "GetDiffPairWidth": 300000,
+        "GetDiffPairGap": 250000,
+        "GetDiffPairViaGap": 250000
+      },
+      "SIGNAL_B": {
+        "GetClearance": 200000,
+        "GetTrackWidth": 300000,
+        "GetViaDiameter": 600000,
+        "GetViaDrill": 300000,
+        "GetuViaDiameter": 300000,
+        "GetuViaDrill": 100000,
+        "GetDiffPairWidth": 300000,
+        "GetDiffPairGap": 250000,
+        "GetDiffPairViaGap": 250000
+      }
+    }
+  },
+  "outline": [
+    [
+      [
+        "atom",
+        "gr_line"
+      ],
+      [
+        [
+          "atom",
+          "end"
+        ],
+        [
+          "number",
+          "1E+1"
+        ],
+        [
+          "number",
+          "1E+1"
+        ]
+      ],
+      [
+        [
+          "atom",
+          "layer"
+        ],
+        [
+          "quoted",
+          "Edge.Cuts"
+        ]
+      ],
+      [
+        [
+          "atom",
+          "start"
+        ],
+        [
+          "number",
+          "1E+1"
+        ],
+        [
+          "number",
+          "4E+1"
+        ]
+      ],
+      [
+        [
+          "atom",
+          "stroke"
+        ],
+        [
+          [
+            "atom",
+            "type"
+          ],
+          [
+            "atom",
+            "default"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "width"
+          ],
+          [
+            "number",
+            "0.05"
+          ]
+        ]
+      ]
+    ],
+    [
+      [
+        "atom",
+        "gr_line"
+      ],
+      [
+        [
+          "atom",
+          "end"
+        ],
+        [
+          "number",
+          "1E+1"
+        ],
+        [
+          "number",
+          "4E+1"
+        ]
+      ],
+      [
+        [
+          "atom",
+          "layer"
+        ],
+        [
+          "quoted",
+          "Edge.Cuts"
+        ]
+      ],
+      [
+        [
+          "atom",
+          "start"
+        ],
+        [
+          "number",
+          "5E+1"
+        ],
+        [
+          "number",
+          "4E+1"
+        ]
+      ],
+      [
+        [
+          "atom",
+          "stroke"
+        ],
+        [
+          [
+            "atom",
+            "type"
+          ],
+          [
+            "atom",
+            "default"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "width"
+          ],
+          [
+            "number",
+            "0.05"
+          ]
+        ]
+      ]
+    ],
+    [
+      [
+        "atom",
+        "gr_line"
+      ],
+      [
+        [
+          "atom",
+          "end"
+        ],
+        [
+          "number",
+          "5E+1"
+        ],
+        [
+          "number",
+          "1E+1"
+        ]
+      ],
+      [
+        [
+          "atom",
+          "layer"
+        ],
+        [
+          "quoted",
+          "Edge.Cuts"
+        ]
+      ],
+      [
+        [
+          "atom",
+          "start"
+        ],
+        [
+          "number",
+          "1E+1"
+        ],
+        [
+          "number",
+          "1E+1"
+        ]
+      ],
+      [
+        [
+          "atom",
+          "stroke"
+        ],
+        [
+          [
+            "atom",
+            "type"
+          ],
+          [
+            "atom",
+            "default"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "width"
+          ],
+          [
+            "number",
+            "0.05"
+          ]
+        ]
+      ]
+    ],
+    [
+      [
+        "atom",
+        "gr_line"
+      ],
+      [
+        [
+          "atom",
+          "end"
+        ],
+        [
+          "number",
+          "5E+1"
+        ],
+        [
+          "number",
+          "4E+1"
+        ]
+      ],
+      [
+        [
+          "atom",
+          "layer"
+        ],
+        [
+          "quoted",
+          "Edge.Cuts"
+        ]
+      ],
+      [
+        [
+          "atom",
+          "start"
+        ],
+        [
+          "number",
+          "5E+1"
+        ],
+        [
+          "number",
+          "1E+1"
+        ]
+      ],
+      [
+        [
+          "atom",
+          "stroke"
+        ],
+        [
+          [
+            "atom",
+            "type"
+          ],
+          [
+            "atom",
+            "default"
+          ]
+        ],
+        [
+          [
+            "atom",
+            "width"
+          ],
+          [
+            "number",
+            "0.05"
+          ]
+        ]
+      ]
+    ]
+  ],
+  "remaining_by_net_name": {
+    "SIGNAL_A": 1,
+    "SIGNAL_B": 1
+  }
+}

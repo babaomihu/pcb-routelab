@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools==80.9.0", "wheel==0.45.1"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pcb-routelab"
+version = "0.1.0"
+description = "PCB routing experiments with auditable candidates, fixed plans and optional Harness orchestration"
+requires-python = ">=3.11"
+license = "MIT"
+readme = "README.md"
+dependencies = ["numpy==2.3.3", "scipy==1.16.2", "shapely==2.1.2"]
+
+[project.optional-dependencies]
+harness = ["deepseek-harness-sdk==0.1.5rc1"]
+
+[project.scripts]
+pcb-routelab = "pcb_routelab.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["pcb_routelab*"]
+namespaces = false
+
+[tool.setuptools.package-data]
+pcb_routelab = ["_assets/**/*", "_assets/krt/rust_router/.cargo/config.toml"]
+
+[tool.setuptools.exclude-package-data]
+pcb_routelab = ["**/*.so", "**/*.dylib", "**/*.pyc", "**/__pycache__/*"]

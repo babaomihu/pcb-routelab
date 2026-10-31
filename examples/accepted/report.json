@@ -1,0 +1,11 @@
+{
+  "status": "success",
+  "mode": "native",
+  "safe": true,
+  "task_success": true,
+  "initial_unconnected": 2,
+  "final_unconnected": 0,
+  "model_requests": 0,
+  "original_inputs_unchanged": true,
+  "input_copy_unchanged": true
+}

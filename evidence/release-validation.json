@@ -1,0 +1,157 @@
+{
+  "release": "0.1.0",
+  "scope": "release engineering only; no new algorithm efficacy claims",
+  "external_model_api_calls": 0,
+  "checks": {
+    "native-02": {
+      "status": "success",
+      "mode": "native",
+      "safe": true,
+      "task_success": true,
+      "initial_unconnected": 2,
+      "final_unconnected": 0,
+      "model_requests": 0,
+      "original_inputs_unchanged": true,
+      "input_copy_unchanged": true
+    },
+    "probe-01": {
+      "status": "planned",
+      "mode": "probe",
+      "safe": true,
+      "task_success": false,
+      "initial_unconnected": null,
+      "final_unconnected": null,
+      "model_requests": 0,
+      "original_inputs_unchanged": true,
+      "input_copy_unchanged": true
+    },
+    "joint-01": {
+      "status": "success",
+      "mode": "joint",
+      "safe": true,
+      "task_success": true,
+      "initial_unconnected": 2,
+      "final_unconnected": 0,
+      "model_requests": 0,
+      "original_inputs_unchanged": true,
+      "input_copy_unchanged": true
+    },
+    "policy-01": {
+      "status": "success",
+      "mode": "policy",
+      "safe": true,
+      "task_success": true,
+      "initial_unconnected": 2,
+      "final_unconnected": 0,
+      "model_requests": 0,
+      "original_inputs_unchanged": true,
+      "input_copy_unchanged": true
+    },
+    "mcp-03": {
+      "passed": true,
+      "calls": [
+        "observe",
+        "plan_board",
+        "propose_intervention",
+        "route_nets",
+        "action_feedback",
+        "commit_result"
+      ],
+      "tools": 15,
+      "model_api_calls": 0,
+      "real_model": false,
+      "safe": true,
+      "task_success": true,
+      "scope": "Actual stdio server + native router; no model quality or provider authentication test"
+    },
+    "guided-01": {
+      "passed": true,
+      "safe": true,
+      "model_api_calls": 0,
+      "initial_unconnected": 2,
+      "final_unconnected": 1,
+      "net": "SIGNAL_A",
+      "scope": "Existing KRT front-layer single-net guidance; no model or new algorithm"
+    },
+    "failures-01": {
+      "passed": true,
+      "checks": [
+        "timeout_not_delivered",
+        "background_cancel",
+        "timeout_export_denied",
+        "code_expression_rejected_before_engine",
+        "zone_not_silently_removed",
+        "existing_job_not_overwritten",
+        "offline_blocks_explicit_online_mode"
+      ],
+      "model_api_calls": 0
+    },
+    "native-guards-01": {
+      "passed": true,
+      "checks": [
+        "native_same_count_connection_swap_rejected",
+        "native_rule_relaxation_rejected"
+      ],
+      "model_api_calls": 0
+    },
+    "clean-native": {
+      "status": "success",
+      "mode": "native",
+      "safe": true,
+      "task_success": true,
+      "initial_unconnected": 2,
+      "final_unconnected": 0,
+      "model_requests": 0,
+      "original_inputs_unchanged": true,
+      "input_copy_unchanged": true
+    },
+    "clean-no-progress": {
+      "status": "no_progress",
+      "mode": "native",
+      "safe": true,
+      "task_success": true,
+      "initial_unconnected": 0,
+      "final_unconnected": 0,
+      "model_requests": 0,
+      "original_inputs_unchanged": true,
+      "input_copy_unchanged": true
+    },
+    "clean-mcp": {
+      "passed": true,
+      "calls": [
+        "observe",
+        "plan_board",
+        "propose_intervention",
+        "route_nets",
+        "action_feedback",
+        "commit_result"
+      ],
+      "tools": 15,
+      "model_api_calls": 0,
+      "real_model": false,
+      "safe": true,
+      "task_success": true,
+      "scope": "Actual stdio server + native router; no model quality or provider authentication test"
+    }
+  },
+  "unit_tests": {
+    "count": 18,
+    "passed": true
+  },
+  "fresh_install_status": "passed",
+  "platform": "macOS arm64 / Python 3.13.14 / KiCad 10.0.4",
+  "cargo": "1.98.0",
+  "model_verification": "Scripted stdio MCP + in-memory mocked transport + SDK construction; no live provider session",
+  "fresh_install": {
+    "method": "wheel installed with --no-index from pinned wheelhouse in new environment with spaces in path; fresh Cargo locked offline build",
+    "unit_tests": 18,
+    "unit_passed": true,
+    "pip_check": "passed",
+    "native": "success, 2 to 0",
+    "mcp": "passed",
+    "export": "passed, native revalidation",
+    "already_connected": "no_progress, 0 to 0",
+    "external_model_api_calls": 0,
+    "no_progress_export": "denied; exit 2"
+  }
+}

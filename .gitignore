@@ -1,0 +1,17 @@
+.venv*/
+__pycache__/
+*.pyc
+*.so
+*.dylib
+*.pyd
+target/
+build/
+dist/
+*.egg-info/
+.env
+.env.*
+!.env.example
+api.*.local.json
+runs/
+.DS_Store
+*.kicad_prl

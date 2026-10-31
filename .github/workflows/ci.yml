@@ -1,0 +1,22 @@
+name: Offline source and package checks
+on: [push, pull_request]
+jobs:
+  offline:
+    runs-on: ubuntu-latest
+    env:
+      PCB_ROUTELAB_OFFLINE: '1'
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - run: python -m pip install -r requirements-build.lock.txt -r requirements.lock.txt
+      - run: python -m pip install --no-build-isolation --no-deps .
+      - run: python -m pip check
+      - run: python -m unittest discover -s tests -v
+      - run: python scripts/audit_release.py
+      - run: python -m build --no-isolation
+      - uses: actions/upload-artifact@v4
+        with:
+          name: source-and-python-wheel
+          path: dist/*
