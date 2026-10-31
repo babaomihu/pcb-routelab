@@ -1,6 +1,6 @@
 # PCB RouteLab
 
-[English](README.md)
+[English](README.en.md)
 
 PCB RouteLab 是一个 **PCB 布线研究工具箱**，用于运行、观察和比较布线策略。它将已有的 DeepSeek Harness 布线研究整理成独立任务，方便使用者接入自己的板文件、固定计划或策略表达式。
 

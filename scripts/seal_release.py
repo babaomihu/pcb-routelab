@@ -3,7 +3,7 @@ import hashlib,json
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
 allowed_dirs=['src','docs','examples','tests','scripts','research','licenses','evidence','.github']
-root_files=['LICENSE','README.md','README.zh-CN.md','THIRD_PARTY_NOTICES.md','pyproject.toml','MANIFEST.in','.gitignore','.env.example',
+root_files=['LICENSE','README.md','README.zh-CN.md','README.en.md','THIRD_PARTY_NOTICES.md','pyproject.toml','MANIFEST.in','.gitignore','.env.example',
             'requirements.lock.txt','requirements-build.lock.txt','requirements-harness.lock.txt','source-origins.json']
 def eligible(p):
  return p.is_file() and not p.is_symlink() and not any(x in ('__pycache__','target') or x.endswith('.egg-info') for x in p.parts) and p.suffix not in ('.so','.dylib','.pyd','.pyc','.kicad_prl')

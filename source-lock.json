@@ -11,7 +11,7 @@
     "scripts/audit_release.py": "040c425024ed0a4e6ebbb969ca653b70d9318fddeef5d243afbbd217e93e5c15",
     "scripts/bootstrap.sh": "22d86de0a68cb8134de9db04e688f25d926cc098bc95b3cd294a66827854dec5",
     "scripts/make_example.py": "c4e9582338b779f54ceee0ce0d9ae5f1cc20489c5e6e4f1b194d0b9e89b76846",
-    "scripts/seal_release.py": "9654655dde251668c13553cac75efcc2a3ee1f943e63d6ab608d1b27513affc6",
+    "scripts/seal_release.py": "271ab5d9f206ff9886ab9c244435f6d7c96e8eb473469cadb314718552f2f2a9",
     "scripts/validate_failures.py": "27f9fd35badfc4baeccc596d280a2bf666b57f343f53435d119319d37ee9019c",
     "scripts/validate_guided.py": "87d894bfacc564904eda8118f999323e359f060dde6b37455d0ad3a377d75be8",
     "scripts/validate_mcp.py": "67ddf4da38e644b880c1e4b97d3932bb8fda38c15220a490eb455a442ed29e59",

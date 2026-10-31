@@ -6,6 +6,7 @@
     ".gitignore",
     "LICENSE",
     "MANIFEST.in",
+    "README.en.md",
     "README.md",
     "README.zh-CN.md",
     "THIRD_PARTY_NOTICES.md",

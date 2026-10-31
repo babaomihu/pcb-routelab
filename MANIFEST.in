@@ -1,5 +1,5 @@
 include .gitignore .env.example
-include LICENSE README.md README.zh-CN.md THIRD_PARTY_NOTICES.md pyproject.toml
+include LICENSE README.md README.zh-CN.md README.en.md THIRD_PARTY_NOTICES.md pyproject.toml
 include requirements*.txt source-origins.json source-lock.json release-files.json RELEASE_FILES.sha256
 recursive-include src *.py *.rs *.toml *.lock LICENSE VERSION *.txt
 recursive-include docs *.md
